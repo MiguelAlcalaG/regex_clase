@@ -1,0 +1,1122 @@
+Laelia_albida_Salazar10336_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.015067
+  y-y slope: 0.404502, with std.Err: 0.0192299
+        r^2: 0.882347
+
+Triploid:
+   Norm SSR: 0.036965
+  y-y slope: -0.281817, with std.Err: 0.0728856
+        r^2: 0.202167
+
+Tetraploid:
+   Norm SSR: 0.0107465
+  y-y slope: 0.286857, with std.Err: 0.121399
+        r^2: 0.086453
+
+Laelia_albida_Salazar6456_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0162507
+  y-y slope: 0.384621, with std.Err: 0.0215176
+        r^2: 0.844124
+
+Triploid:
+   Norm SSR: 0.0372642
+  y-y slope: -0.300527, with std.Err: 0.0690058
+        r^2: 0.243268
+
+Tetraploid:
+   Norm SSR: 0.0106383
+  y-y slope: 0.267648, with std.Err: 0.118456
+        r^2: 0.0796377
+
+Laelia_albida_Salazar7455_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0166411
+  y-y slope: 0.384971, with std.Err: 0.0252118
+        r^2: 0.798054
+
+Triploid:
+   Norm SSR: 0.0359325
+  y-y slope: -0.254212, with std.Err: 0.0746503
+        r^2: 0.164265
+
+Tetraploid:
+   Norm SSR: 0.011002
+  y-y slope: 0.271161, with std.Err: 0.122104
+        r^2: 0.0771405
+
+Laelia_anceps_Jimenez2456_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0381248
+  y-y slope: 0.0520985, with std.Err: 0.0302517
+        r^2: 0.0478628
+
+Triploid:
+   Norm SSR: 0.0277575
+  y-y slope: -0.174506, with std.Err: 0.0389881
+        r^2: 0.25348
+
+Tetraploid:
+   Norm SSR: 0.00459026
+  y-y slope: 0.351217, with std.Err: 0.053317
+        r^2: 0.423789
+
+Laelia_anceps_Perez1_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0423943
+  y-y slope: -0.0188366, with std.Err: 0.0189354
+        r^2: 0.0164961
+
+Triploid:
+   Norm SSR: 0.0205728
+  y-y slope: -0.0216539, with std.Err: 0.0276471
+        r^2: 0.0102903
+
+Tetraploid:
+   Norm SSR: 0.00704497
+  y-y slope: 0.103489, with std.Err: 0.0411056
+        r^2: 0.097011
+
+Laelia_anceps_Perez2_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0317182
+  y-y slope: 0.139493, with std.Err: 0.0296811
+        r^2: 0.27239
+
+Triploid:
+   Norm SSR: 0.0296211
+  y-y slope: -0.208226, with std.Err: 0.0427797
+        r^2: 0.286505
+
+Tetraploid:
+   Norm SSR: 0.00640425
+  y-y slope: 0.272701, with std.Err: 0.0703856
+        r^2: 0.20282
+
+Laelia_anceps_Perez4_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0185219
+  y-y slope: 0.337763, with std.Err: 0.020251
+        r^2: 0.825022
+
+Triploid:
+   Norm SSR: 0.0337592
+  y-y slope: -0.246932, with std.Err: 0.0627028
+        r^2: 0.208148
+
+Tetraploid:
+   Norm SSR: 0.0101975
+  y-y slope: 0.20103, with std.Err: 0.106512
+        r^2: 0.0569393
+
+Laelia_anceps_Salazar10237_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0365656
+  y-y slope: 0.0696243, with std.Err: 0.0285108
+        r^2: 0.0917982
+
+Triploid:
+   Norm SSR: 0.0269943
+  y-y slope: -0.158441, with std.Err: 0.0383484
+        r^2: 0.224403
+
+Tetraploid:
+   Norm SSR: 0.00494339
+  y-y slope: 0.318559, with std.Err: 0.053609
+        r^2: 0.374407
+
+Laelia_ancepsxfurfuracea_L0025_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0648079
+  y-y slope: -0.223268, with std.Err: 0.0456179
+        r^2: 0.288765
+
+Triploid:
+   Norm SSR: 0.00414029
+  y-y slope: 0.573284, with std.Err: 0.0250595
+        r^2: 0.898687
+
+Tetraploid:
+   Norm SSR: 0.0206813
+  y-y slope: -0.383024, with std.Err: 0.111943
+        r^2: 0.165575
+
+Laelia_aurea_Perez_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0332396
+  y-y slope: 0.110166, with std.Err: 0.0255967
+        r^2: 0.238944
+
+Triploid:
+   Norm SSR: 0.0267504
+  y-y slope: -0.15412, with std.Err: 0.0376986
+        r^2: 0.220747
+
+Tetraploid:
+   Norm SSR: 0.0052686
+  y-y slope: 0.29254, with std.Err: 0.0544816
+        r^2: 0.328261
+
+Laelia_aurea_Salazar10332_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0310794
+  y-y slope: 0.140105, with std.Err: 0.0250661
+        r^2: 0.346199
+
+Triploid:
+   Norm SSR: 0.0282672
+  y-y slope: -0.188006, with std.Err: 0.037905
+        r^2: 0.294265
+
+Tetraploid:
+   Norm SSR: 0.0049625
+  y-y slope: 0.327325, with std.Err: 0.055827
+        r^2: 0.368154
+
+Laelia_aurea_Salazar10658_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0276821
+  y-y slope: 0.185657, with std.Err: 0.0219622
+        r^2: 0.54776
+
+Triploid:
+   Norm SSR: 0.0264847
+  y-y slope: -0.134236, with std.Err: 0.0442045
+        r^2: 0.135171
+
+Tetraploid:
+   Norm SSR: 0.00724228
+  y-y slope: 0.19713, with std.Err: 0.069395
+        r^2: 0.120316
+
+Laelia_autoceps_Salazar10334_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0112527
+  y-y slope: 0.491269, with std.Err: 0.0194552
+        r^2: 0.915306
+
+Triploid:
+   Norm SSR: 0.042687
+  y-y slope: -0.350372, with std.Err: 0.0859475
+        r^2: 0.219768
+
+Tetraploid:
+   Norm SSR: 0.0142972
+  y-y slope: 0.259978, with std.Err: 0.147625
+        r^2: 0.0499403
+
+Laelia_autumnalis_Perez_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0480302
+  y-y slope: -0.0479093, with std.Err: 0.0415538
+        r^2: 0.0220339
+
+Triploid:
+   Norm SSR: 0.03011
+  y-y slope: -0.186489, with std.Err: 0.0561333
+        r^2: 0.157592
+
+Tetraploid:
+   Norm SSR: 0.00211709
+  y-y slope: 0.631598, with std.Err: 0.0479703
+        r^2: 0.746078
+
+Laelia_autumnalis_Salazar6838_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0443313
+  y-y slope: -0.00551001, with std.Err: 0.0404479
+        r^2: 0.00031443
+
+Triploid:
+   Norm SSR: 0.0295699
+  y-y slope: -0.180262, with std.Err: 0.0540021
+        r^2: 0.158856
+
+Tetraploid:
+   Norm SSR: 0.00199137
+  y-y slope: 0.620116, with std.Err: 0.0433852
+        r^2: 0.775919
+
+Laelia_autumnalis_Salazar8320_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.022925
+  y-y slope: 0.256712, with std.Err: 0.0185413
+        r^2: 0.764654
+
+Triploid:
+   Norm SSR: 0.0313542
+  y-y slope: -0.238467, with std.Err: 0.0461596
+        r^2: 0.311464
+
+Tetraploid:
+   Norm SSR: 0.0068722
+  y-y slope: 0.280546, with std.Err: 0.0785087
+        r^2: 0.177924
+
+Laelia_crawshayana_L0004_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0250804
+  y-y slope: 0.223983, with std.Err: 0.0203399
+        r^2: 0.672702
+
+Triploid:
+   Norm SSR: 0.028648
+  y-y slope: -0.179146, with std.Err: 0.0461936
+        r^2: 0.203134
+
+Tetraploid:
+   Norm SSR: 0.00711291
+  y-y slope: 0.235326, with std.Err: 0.0744936
+        r^2: 0.144671
+
+Laelia_crawshayana_L0007_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0262231
+  y-y slope: 0.203651, with std.Err: 0.018861
+        r^2: 0.66398
+
+Triploid:
+   Norm SSR: 0.0272636
+  y-y slope: -0.155342, with std.Err: 0.0428227
+        r^2: 0.182363
+
+Tetraploid:
+   Norm SSR: 0.00767806
+  y-y slope: 0.167997, with std.Err: 0.0703958
+        r^2: 0.0880315
+
+Laelia_crawshayana_Salazar10337_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0288935
+  y-y slope: 0.165959, with std.Err: 0.0210942
+        r^2: 0.511983
+
+Triploid:
+   Norm SSR: 0.0268851
+  y-y slope: -0.154505, with std.Err: 0.0390766
+        r^2: 0.209469
+
+Tetraploid:
+   Norm SSR: 0.00797657
+  y-y slope: 0.126615, with std.Err: 0.0663945
+        r^2: 0.05806
+
+Laelia_dawsonii_Halbinger_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0260349
+  y-y slope: 0.223359, with std.Err: 0.0283105
+        r^2: 0.513387
+
+Triploid:
+   Norm SSR: 0.0327995
+  y-y slope: -0.265072, with std.Err: 0.0479412
+        r^2: 0.341306
+
+Tetraploid:
+   Norm SSR: 0.00563931
+  y-y slope: 0.387809, with std.Err: 0.0768431
+        r^2: 0.301526
+
+Laelia_dawsonii_Perez_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0232457
+  y-y slope: 0.258241, with std.Err: 0.0227615
+        r^2: 0.685703
+
+Triploid:
+   Norm SSR: 0.0298983
+  y-y slope: -0.18821, with std.Err: 0.0537745
+        r^2: 0.171929
+
+Tetraploid:
+   Norm SSR: 0.00791632
+  y-y slope: 0.242013, with std.Err: 0.0864181
+        r^2: 0.117332
+
+Laelia_dawsonii_Salazar10520_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.026563
+  y-y slope: 0.199941, with std.Err: 0.0199822
+        r^2: 0.629209
+
+Triploid:
+   Norm SSR: 0.028841
+  y-y slope: -0.19595, with std.Err: 0.0403793
+        r^2: 0.285274
+
+Tetraploid:
+   Norm SSR: 0.00684448
+  y-y slope: 0.224196, with std.Err: 0.0683759
+        r^2: 0.154134
+
+Laelia_dawsonii_Salazar10666_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.027184
+  y-y slope: 0.201963, with std.Err: 0.0267766
+        r^2: 0.490893
+
+Triploid:
+   Norm SSR: 0.0301079
+  y-y slope: -0.208763, with std.Err: 0.0473795
+        r^2: 0.247589
+
+Tetraploid:
+   Norm SSR: 0.00712917
+  y-y slope: 0.256133, with std.Err: 0.0782088
+        r^2: 0.153825
+
+Laelia_dawsonii_Soto6617_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0339291
+  y-y slope: 0.099362, with std.Err: 0.0248855
+        r^2: 0.212727
+
+Triploid:
+   Norm SSR: 0.0261899
+  y-y slope: -0.14393, with std.Err: 0.0362674
+        r^2: 0.210698
+
+Tetraploid:
+   Norm SSR: 0.00551122
+  y-y slope: 0.265737, with std.Err: 0.0532976
+        r^2: 0.296441
+
+Laelia_dawsonii_Soto7426_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0373438
+  y-y slope: 0.0617179, with std.Err: 0.0298659
+        r^2: 0.0674949
+
+Triploid:
+   Norm SSR: 0.0244921
+  y-y slope: -0.0883791, with std.Err: 0.04352
+        r^2: 0.0653321
+
+Tetraploid:
+   Norm SSR: 0.00708296
+  y-y slope: 0.190686, with std.Err: 0.0655234
+        r^2: 0.125528
+
+Laelia_elata_L0018_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0174923
+  y-y slope: 0.372716, with std.Err: 0.0271669
+        r^2: 0.76135
+
+Triploid:
+   Norm SSR: 0.0370876
+  y-y slope: -0.288216, with std.Err: 0.0717187
+        r^2: 0.214903
+
+Tetraploid:
+   Norm SSR: 0.00959117
+  y-y slope: 0.353294, with std.Err: 0.117294
+        r^2: 0.133276
+
+Laelia_eyermaniana_L0021_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0177339
+  y-y slope: 0.357838, with std.Err: 0.0228088
+        r^2: 0.806642
+
+Triploid:
+   Norm SSR: 0.0348016
+  y-y slope: -0.252843, with std.Err: 0.0679433
+        r^2: 0.190102
+
+Tetraploid:
+   Norm SSR: 0.0093607
+  y-y slope: 0.3072, with std.Err: 0.1105
+        r^2: 0.115824
+
+Laelia_eyermaniana_Salazar10339_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0179631
+  y-y slope: 0.353366, with std.Err: 0.0227941
+        r^2: 0.802892
+
+Triploid:
+   Norm SSR: 0.0353254
+  y-y slope: -0.270117, with std.Err: 0.065936
+        r^2: 0.221456
+
+Tetraploid:
+   Norm SSR: 0.00895251
+  y-y slope: 0.325108, with std.Err: 0.108343
+        r^2: 0.132408
+
+Laelia_eyermanniana_Halbinger_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0276874
+  y-y slope: 0.174973, with std.Err: 0.0137004
+        r^2: 0.734364
+
+Triploid:
+   Norm SSR: 0.0255312
+  y-y slope: -0.131499, with std.Err: 0.0346964
+        r^2: 0.195791
+
+Tetraploid:
+   Norm SSR: 0.00767717
+  y-y slope: 0.114745, with std.Err: 0.058341
+        r^2: 0.0615304
+
+Laelia_furfuracea_GarciaMendoza9707_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.019653
+  y-y slope: 0.312519, with std.Err: 0.0176507
+        r^2: 0.841609
+
+Triploid:
+   Norm SSR: 0.0325746
+  y-y slope: -0.239129, with std.Err: 0.0565482
+        r^2: 0.232595
+
+Tetraploid:
+   Norm SSR: 0.00900951
+  y-y slope: 0.220151, with std.Err: 0.0963031
+        r^2: 0.0813673
+
+Laelia_furfuracea_L0024_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0268586
+  y-y slope: 0.203833, with std.Err: 0.0250945
+        r^2: 0.527912
+
+Triploid:
+   Norm SSR: 0.0277109
+  y-y slope: -0.149978, with std.Err: 0.0494435
+        r^2: 0.13491
+
+Tetraploid:
+   Norm SSR: 0.00687766
+  y-y slope: 0.260995, with std.Err: 0.0754466
+        r^2: 0.168628
+
+Laelia_furfuracea_Pichardo122_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0257701
+  y-y slope: 0.215467, with std.Err: 0.0219206
+        r^2: 0.620866
+
+Triploid:
+   Norm SSR: 0.0291634
+  y-y slope: -0.192575, with std.Err: 0.0453474
+        r^2: 0.234105
+
+Tetraploid:
+   Norm SSR: 0.00656798
+  y-y slope: 0.270776, with std.Err: 0.0725431
+        r^2: 0.191033
+
+Laelia_furfuracea_Salazar8342_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0246945
+  y-y slope: 0.242459, with std.Err: 0.0270278
+        r^2: 0.576982
+
+Triploid:
+   Norm SSR: 0.0306749
+  y-y slope: -0.203859, with std.Err: 0.0543503
+        r^2: 0.192541
+
+Tetraploid:
+   Norm SSR: 0.0077386
+  y-y slope: 0.265291, with std.Err: 0.0875827
+        r^2: 0.13458
+
+Laelia_gouldiana_Salazar10335_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0616589
+  y-y slope: -0.203363, with std.Err: 0.0395756
+        r^2: 0.309176
+
+Triploid:
+   Norm SSR: 0.00536365
+  y-y slope: 0.499744, with std.Err: 0.023875
+        r^2: 0.88132
+
+Tetraploid:
+   Norm SSR: 0.0187949
+  y-y slope: -0.361807, with std.Err: 0.0970471
+        r^2: 0.190662
+
+Laelia_halbingeriana_I28757_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0253356
+  y-y slope: 0.223781, with std.Err: 0.0227253
+        r^2: 0.621717
+
+Triploid:
+   Norm SSR: 0.0292514
+  y-y slope: -0.188789, with std.Err: 0.0478338
+        r^2: 0.208871
+
+Tetraploid:
+   Norm SSR: 0.0103183
+  y-y slope: 0.0451236, with std.Err: 0.0835031
+        r^2: 0.00492501
+
+Laelia_halbingeriana_Salazar6696_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0275364
+  y-y slope: 0.188668, with std.Err: 0.0224412
+        r^2: 0.545038
+
+Triploid:
+   Norm SSR: 0.0269147
+  y-y slope: -0.143093, with std.Err: 0.0446983
+        r^2: 0.147995
+
+Tetraploid:
+   Norm SSR: 0.00698726
+  y-y slope: 0.219595, with std.Err: 0.069744
+        r^2: 0.143855
+
+Laelia_halbingeriana_Salazar6740_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0317224
+  y-y slope: 0.137772, with std.Err: 0.0288536
+        r^2: 0.278724
+
+Triploid:
+   Norm SSR: 0.0250519
+  y-y slope: -0.0908387, with std.Err: 0.0480143
+        r^2: 0.0571966
+
+Tetraploid:
+   Norm SSR: 0.00652623
+  y-y slope: 0.25632, with std.Err: 0.0693604
+        r^2: 0.18796
+
+Laelia_halbingeriana_Salazar7207_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0331166
+  y-y slope: 0.102863, with std.Err: 0.019543
+        r^2: 0.319521
+
+Triploid:
+   Norm SSR: 0.02298
+  y-y slope: -0.0730662, with std.Err: 0.0331442
+        r^2: 0.0761011
+
+Tetraploid:
+   Norm SSR: 0.00644101
+  y-y slope: 0.171998, with std.Err: 0.0487792
+        r^2: 0.174052
+
+Laelia_heidii_L0034_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0261199
+  y-y slope: 0.208113, with std.Err: 0.0207879
+        r^2: 0.629458
+
+Triploid:
+   Norm SSR: 0.027335
+  y-y slope: -0.15051, with std.Err: 0.0456799
+        r^2: 0.155409
+
+Tetraploid:
+   Norm SSR: 0.00705385
+  y-y slope: 0.224304, with std.Err: 0.0716461
+        r^2: 0.142459
+
+Laelia_lueddemanii_L0036_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0187874
+  y-y slope: 0.340759, with std.Err: 0.0242818
+        r^2: 0.769476
+
+Triploid:
+   Norm SSR: 0.0336072
+  y-y slope: -0.229538, with std.Err: 0.0672708
+        r^2: 0.164812
+
+Tetraploid:
+   Norm SSR: 0.00991942
+  y-y slope: 0.251257, with std.Err: 0.109809
+        r^2: 0.081506
+
+Laelia_lyonsii_L0040_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0599533
+  y-y slope: -0.181881, with std.Err: 0.0413819
+        r^2: 0.246657
+
+Triploid:
+   Norm SSR: 0.00492478
+  y-y slope: 0.511731, with std.Err: 0.0194205
+        r^2: 0.921681
+
+Tetraploid:
+   Norm SSR: 0.0200591
+  y-y slope: -0.441965, with std.Err: 0.0914153
+        r^2: 0.283757
+
+Laelia_marginata_L0041_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0477282
+  y-y slope: -0.076126, with std.Err: 0.024145
+        r^2: 0.144191
+
+Triploid:
+   Norm SSR: 0.0181051
+  y-y slope: 0.0634391, with std.Err: 0.0370796
+        r^2: 0.0472674
+
+Tetraploid:
+   Norm SSR: 0.0099044
+  y-y slope: -0.0319077, with std.Err: 0.0589846
+        r^2: 0.00493528
+
+Laelia_mottae_Bianchi_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.02983
+  y-y slope: 0.15423, with std.Err: 0.0225292
+        r^2: 0.442684
+
+Triploid:
+   Norm SSR: 0.0266723
+  y-y slope: -0.14894, with std.Err: 0.0394128
+        r^2: 0.194877
+
+Tetraploid:
+   Norm SSR: 0.00718283
+  y-y slope: 0.177348, with std.Err: 0.064354
+        r^2: 0.114042
+
+Laelia_mottae_Perez_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.027246
+  y-y slope: 0.192033, with std.Err: 0.021748
+        r^2: 0.56924
+
+Triploid:
+   Norm SSR: 0.026169
+  y-y slope: -0.123918, with std.Err: 0.0454512
+        r^2: 0.11189
+
+Tetraploid:
+   Norm SSR: 0.00673567
+  y-y slope: 0.234375, with std.Err: 0.0685908
+        r^2: 0.165204
+
+Laelia_moyobambae_L0011_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0503003
+  y-y slope: -0.106476, with std.Err: 0.02344
+        r^2: 0.259112
+
+Triploid:
+   Norm SSR: 0.0163967
+  y-y slope: 0.112422, with std.Err: 0.0368349
+        r^2: 0.136355
+
+Tetraploid:
+   Norm SSR: 0.0105742
+  y-y slope: -0.0657129, with std.Err: 0.0610997
+        r^2: 0.0192282
+
+Laelia_nemesis_Perez_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0139994
+  y-y slope: 0.441086, with std.Err: 0.0251693
+        r^2: 0.838849
+
+Triploid:
+   Norm SSR: 0.0391217
+  y-y slope: -0.289645, with std.Err: 0.0831018
+        r^2: 0.170745
+
+Tetraploid:
+   Norm SSR: 0.0118678
+  y-y slope: 0.33428, with std.Err: 0.135215
+        r^2: 0.0938664
+
+Laelia_rosea_Carnevali1968_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0167502
+  y-y slope: 0.365914, with std.Err: 0.0166841
+        r^2: 0.890743
+
+Triploid:
+   Norm SSR: 0.0351537
+  y-y slope: -0.271087, with std.Err: 0.064434
+        r^2: 0.230775
+
+Tetraploid:
+   Norm SSR: 0.00978891
+  y-y slope: 0.258119, with std.Err: 0.109305
+        r^2: 0.0863544
+
+Laelia_rubescens_Leon_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.041946
+  y-y slope: -0.00755443, with std.Err: 0.0235838
+        r^2: 0.00173608
+
+Triploid:
+   Norm SSR: 0.0224976
+  y-y slope: -0.0605562, with std.Err: 0.0334392
+        r^2: 0.0526576
+
+Tetraploid:
+   Norm SSR: 0.00653129
+  y-y slope: 0.165588, with std.Err: 0.048939
+        r^2: 0.162508
+
+Laelia_rubescens_Lopez_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0151445
+  y-y slope: 0.406092, with std.Err: 0.0208483
+        r^2: 0.865422
+
+Triploid:
+   Norm SSR: 0.0377009
+  y-y slope: -0.295874, with std.Err: 0.0732008
+        r^2: 0.216856
+
+Tetraploid:
+   Norm SSR: 0.0109956
+  y-y slope: 0.284012, with std.Err: 0.12333
+        r^2: 0.0824716
+
+Laelia_rubescens_Salazar10333_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0159585
+  y-y slope: 0.408519, with std.Err: 0.0287769
+        r^2: 0.773537
+
+Triploid:
+   Norm SSR: 0.0368473
+  y-y slope: -0.2466, with std.Err: 0.0819509
+        r^2: 0.133051
+
+Tetraploid:
+   Norm SSR: 0.0130642
+  y-y slope: 0.216033, with std.Err: 0.134082
+        r^2: 0.0421451
+
+Laelia_rubescens_Salazar10661_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0439195
+  y-y slope: -0.0242396, with std.Err: 0.0285887
+        r^2: 0.0120379
+
+Triploid:
+   Norm SSR: 0.0233563
+  y-y slope: -0.0664002, with std.Err: 0.0409612
+        r^2: 0.04264
+
+Tetraploid:
+   Norm SSR: 0.00646749
+  y-y slope: 0.210578, with std.Err: 0.059115
+        r^2: 0.177002
+
+Laelia_speciosa_169_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0225002
+  y-y slope: 0.268115, with std.Err: 0.0211893
+        r^2: 0.730725
+
+Triploid:
+   Norm SSR: 0.0332057
+  y-y slope: -0.274552, with std.Err: 0.0474839
+        r^2: 0.361689
+
+Tetraploid:
+   Norm SSR: 0.00701685
+  y-y slope: 0.302561, with std.Err: 0.083706
+        r^2: 0.181296
+
+Laelia_speciosa_GLopez_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0196746
+  y-y slope: 0.305207, with std.Err: 0.0122221
+        r^2: 0.913565
+
+Triploid:
+   Norm SSR: 0.0307089
+  y-y slope: -0.204675, with std.Err: 0.0543244
+        r^2: 0.193936
+
+Tetraploid:
+   Norm SSR: 0.00994935
+  y-y slope: 0.123744, with std.Err: 0.0927952
+        r^2: 0.0292585
+
+Laelia_speciosa_Halbinger_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0226315
+  y-y slope: 0.273347, with std.Err: 0.0251783
+        r^2: 0.666408
+
+Triploid:
+   Norm SSR: 0.0289937
+  y-y slope: -0.148526, with std.Err: 0.0604316
+        r^2: 0.0928733
+
+Tetraploid:
+   Norm SSR: 0.0104844
+  y-y slope: 0.115502, with std.Err: 0.0976113
+        r^2: 0.0231813
+
+Laelia_speciosa_Ubaldo_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0177618
+  y-y slope: 0.341335, with std.Err: 0.012969
+        r^2: 0.921512
+
+Triploid:
+   Norm SSR: 0.0337285
+  y-y slope: -0.258667, with std.Err: 0.0583583
+        r^2: 0.249804
+
+Tetraploid:
+   Norm SSR: 0.0111853
+  y-y slope: 0.107293, with std.Err: 0.103942
+        r^2: 0.0177392
+
+Laelia_splendida_Salazar9802_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0289352
+  y-y slope: 0.17391, with std.Err: 0.0261982
+        r^2: 0.427554
+
+Triploid:
+   Norm SSR: 0.0273813
+  y-y slope: -0.14969, with std.Err: 0.0464779
+        r^2: 0.149522
+
+Tetraploid:
+   Norm SSR: 0.0092509
+  y-y slope: 0.0883908, with std.Err: 0.0775987
+        r^2: 0.0215182
+
+Laelia_superbiens_Dickinson_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0281071
+  y-y slope: 0.174217, with std.Err: 0.018554
+        r^2: 0.599095
+
+Triploid:
+   Norm SSR: 0.0271918
+  y-y slope: -0.16594, with std.Err: 0.0367747
+        r^2: 0.256565
+
+Tetraploid:
+   Norm SSR: 0.00629552
+  y-y slope: 0.22636, with std.Err: 0.0594889
+        r^2: 0.197046
+
+Laelia_superbiens_L0043_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.027258
+  y-y slope: 0.20762, with std.Err: 0.0300142
+        r^2: 0.447826
+
+Triploid:
+   Norm SSR: 0.0303378
+  y-y slope: -0.200901, with std.Err: 0.0526509
+        r^2: 0.197929
+
+Tetraploid:
+   Norm SSR: 0.00801959
+  y-y slope: 0.232827, with std.Err: 0.0863428
+        r^2: 0.109721
+
+Laelia_superbiens_Soto8162_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0332551
+  y-y slope: 0.105307, with std.Err: 0.0226881
+        r^2: 0.267476
+
+Triploid:
+   Norm SSR: 0.0240888
+  y-y slope: -0.0935699, with std.Err: 0.0366097
+        r^2: 0.0996835
+
+Tetraploid:
+   Norm SSR: 0.00644031
+  y-y slope: 0.193459, with std.Err: 0.0545203
+        r^2: 0.175875
+
+Laelia_undulata_L0045_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.02031
+  y-y slope: 0.294597, with std.Err: 0.0129088
+        r^2: 0.898244
+
+Triploid:
+   Norm SSR: 0.03005
+  y-y slope: -0.192901, with std.Err: 0.0532778
+        r^2: 0.181797
+
+Tetraploid:
+   Norm SSR: 0.00872673
+  y-y slope: 0.188416, with std.Err: 0.0883385
+        r^2: 0.0715857
+
+Laelia_vandenbergiana_L0030_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0485738
+  y-y slope: -0.0752899, with std.Err: 0.0311703
+        r^2: 0.0899885
+
+Triploid:
+   Norm SSR: 0.0198383
+  y-y slope: 0.0417232, with std.Err: 0.0472473
+        r^2: 0.0130451
+
+Tetraploid:
+   Norm SSR: 0.00814818
+  y-y slope: 0.139214, with std.Err: 0.0717743
+        r^2: 0.0599422
+
+Laelia_weberbaueriana_L0047_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0402021
+  y-y slope: 0.0068982, with std.Err: 0.017545
+        r^2: 0.00261323
+
+Triploid:
+   Norm SSR: 0.0180885
+  y-y slope: 0.0405938, with std.Err: 0.025018
+        r^2: 0.0427172
+
+Tetraploid:
+   Norm SSR: 0.00877492
+  y-y slope: -0.0159008, with std.Err: 0.0397473
+        r^2: 0.00270516
+
+Laelia_xmeavei_Perez_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.00884775
+  y-y slope: 0.554043, with std.Err: 0.0193867
+        r^2: 0.932628
+
+Triploid:
+   Norm SSR: 0.0476334
+  y-y slope: -0.411936, with std.Err: 0.0945621
+        r^2: 0.243366
+
+Tetraploid:
+   Norm SSR: 0.0156899
+  y-y slope: 0.338681, with std.Err: 0.163369
+        r^2: 0.0678978
+
+Laelia_xoaxacana_Hagsater9539_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0112567
+  y-y slope: 0.484603, with std.Err: 0.0162629
+        r^2: 0.937693
+
+Triploid:
+   Norm SSR: 0.0413773
+  y-y slope: -0.329729, with std.Err: 0.0845565
+        r^2: 0.204918
+
+Tetraploid:
+   Norm SSR: 0.0137525
+  y-y slope: 0.260946, with std.Err: 0.143643
+        r^2: 0.0529713
+
+Laelia_xoaxacana_Salazar6739_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.00849527
+  y-y slope: 0.569812, with std.Err: 0.0214652
+        r^2: 0.922743
+
+Triploid:
+   Norm SSR: 0.0480972
+  y-y slope: -0.400131, with std.Err: 0.0996027
+        r^2: 0.214782
+
+Tetraploid:
+   Norm SSR: 0.0161545
+  y-y slope: 0.367231, with std.Err: 0.168301
+        r^2: 0.0746705
+
+Laelia_xtlaxiacoensis_L0028_mapped_ref.bin
+
+Diplod:
+   Norm SSR: 0.0136328
+  y-y slope: 0.453407, with std.Err: 0.0266295
+        r^2: 0.830898
+
+Triploid:
+   Norm SSR: 0.0408667
+  y-y slope: -0.319424, with std.Err: 0.0845841
+        r^2: 0.194663
+
+Tetraploid:
+   Norm SSR: 0.0127647
+  y-y slope: 0.316512, with std.Err: 0.140806
+        r^2: 0.0788864
+
