@@ -1,0 +1,929 @@
+Name,Sequence Name,Type,Minimum,Maximum,Length,Direction
+COX1 gene,Canthesancus_helluo_NC_037745,gene,1,1535,1535,forward
+COX1 CDS,Canthesancus_helluo_NC_037745,CDS,1,1535,1535,forward
+tRNA-Leu,Canthesancus_helluo_NC_037745,tRNA,1534,1601,68,forward
+COX2 gene,Canthesancus_helluo_NC_037745,gene,1601,2279,679,forward
+COX2 CDS,Canthesancus_helluo_NC_037745,CDS,1601,2279,679,forward
+tRNA-Lys,Canthesancus_helluo_NC_037745,tRNA,2280,2349,70,forward
+tRNA-Asp,Canthesancus_helluo_NC_037745,tRNA,2350,2413,64,forward
+ATP8 gene,Canthesancus_helluo_NC_037745,gene,2414,2572,159,forward
+ATP8 CDS,Canthesancus_helluo_NC_037745,CDS,2414,2572,159,forward
+ATP6 gene,Canthesancus_helluo_NC_037745,gene,2566,3249,684,forward
+ATP6 CDS,Canthesancus_helluo_NC_037745,CDS,2566,3249,684,forward
+COX3 gene,Canthesancus_helluo_NC_037745,gene,3236,4020,785,forward
+COX3 CDS,Canthesancus_helluo_NC_037745,CDS,3236,4020,785,forward
+tRNA-Gly,Canthesancus_helluo_NC_037745,tRNA,4020,4082,63,forward
+ND3 gene,Canthesancus_helluo_NC_037745,gene,4083,4434,352,forward
+ND3 CDS,Canthesancus_helluo_NC_037745,CDS,4083,4434,352,forward
+tRNA-Ala,Canthesancus_helluo_NC_037745,tRNA,4434,4497,64,forward
+tRNA-Arg,Canthesancus_helluo_NC_037745,tRNA,4508,4572,65,forward
+tRNA-Asn,Canthesancus_helluo_NC_037745,tRNA,4577,4643,67,forward
+tRNA-Ser,Canthesancus_helluo_NC_037745,tRNA,4643,4712,70,forward
+tRNA-Glu,Canthesancus_helluo_NC_037745,tRNA,4715,4777,63,forward
+tRNA-Phe,Canthesancus_helluo_NC_037745,tRNA,4777,4843,67,reverse
+ND5 gene,Canthesancus_helluo_NC_037745,gene,4849,6555,1707,reverse
+ND5 CDS,Canthesancus_helluo_NC_037745,CDS,4849,6555,1707,reverse
+tRNA-His,Canthesancus_helluo_NC_037745,tRNA,6556,6619,64,reverse
+ND4 gene,Canthesancus_helluo_NC_037745,gene,6619,7950,1332,reverse
+ND4 CDS,Canthesancus_helluo_NC_037745,CDS,6619,7950,1332,reverse
+ND4L gene,Canthesancus_helluo_NC_037745,gene,7944,8237,294,reverse
+ND4L CDS,Canthesancus_helluo_NC_037745,CDS,7944,8237,294,reverse
+tRNA-Thr,Canthesancus_helluo_NC_037745,tRNA,8241,8303,63,forward
+tRNA-Pro,Canthesancus_helluo_NC_037745,tRNA,8304,8371,68,reverse
+ND6 gene,Canthesancus_helluo_NC_037745,gene,8374,8874,501,forward
+ND6 CDS,Canthesancus_helluo_NC_037745,CDS,8374,8874,501,forward
+CYTB gene,Canthesancus_helluo_NC_037745,gene,8942,10075,1134,forward
+CYTB CDS,Canthesancus_helluo_NC_037745,CDS,8942,10075,1134,forward
+tRNA-Ser,Canthesancus_helluo_NC_037745,tRNA,10075,10143,69,forward
+ND1 gene,Canthesancus_helluo_NC_037745,gene,10280,11197,918,reverse
+ND1 CDS,Canthesancus_helluo_NC_037745,CDS,10280,11197,918,reverse
+tRNA-Leu,Canthesancus_helluo_NC_037745,tRNA,11198,11262,65,reverse
+tRNA-Val,Canthesancus_helluo_NC_037745,tRNA,12535,12604,70,reverse
+tRNA-Ile,Canthesancus_helluo_NC_037745,tRNA,14377,14442,66,forward
+tRNA-Gln,Canthesancus_helluo_NC_037745,tRNA,14440,14508,69,reverse
+tRNA-Met,Canthesancus_helluo_NC_037745,tRNA,14507,14574,68,forward
+ND2 gene,Canthesancus_helluo_NC_037745,gene,14575,15567,993,forward
+ND2 CDS,Canthesancus_helluo_NC_037745,CDS,14575,15567,993,forward
+tRNA-Trp,Canthesancus_helluo_NC_037745,tRNA,15566,15630,65,forward
+tRNA-Cys,Canthesancus_helluo_NC_037745,tRNA,15622,15686,65,reverse
+tRNA-Tyr,Canthesancus_helluo_NC_037745,tRNA,15686,15752,67,reverse
+COX1 gene,Cavernicola_pilosa_U37,gene,1,1539,1539,forward
+COX1 CDS,Cavernicola_pilosa_U37,CDS,1,1539,1539,forward
+tRNA-Leu,Cavernicola_pilosa_U37,tRNA,1534,1608,75,forward
+COX2 gene,Cavernicola_pilosa_U37,gene,1608,2286,679,forward
+COX2 CDS,Cavernicola_pilosa_U37,CDS,1608,2286,679,forward
+tRNA-Lys,Cavernicola_pilosa_U37,tRNA,2287,2358,72,forward
+tRNA-Asp,Cavernicola_pilosa_U37,tRNA,2358,2420,63,forward
+ATP8 gene,Cavernicola_pilosa_U37,gene,2421,2576,156,forward
+ATP8 CDS,Cavernicola_pilosa_U37,CDS,2421,2576,156,forward
+ATP6 gene,Cavernicola_pilosa_U37,gene,2570,3239,670,forward
+ATP6 CDS,Cavernicola_pilosa_U37,CDS,2570,3239,670,forward
+COX3 gene,Cavernicola_pilosa_U37,gene,3240,4024,785,forward
+COX3 CDS,Cavernicola_pilosa_U37,CDS,3240,4024,785,forward
+tRNA-Gly,Cavernicola_pilosa_U37,tRNA,4024,4086,63,forward
+ND3 gene,Cavernicola_pilosa_U37,gene,4086,4436,351,forward
+ND3 CDS,Cavernicola_pilosa_U37,CDS,4086,4436,351,forward
+tRNA-Ala,Cavernicola_pilosa_U37,tRNA,4437,4501,65,forward
+tRNA-Arg,Cavernicola_pilosa_U37,tRNA,4541,4608,68,forward
+tRNA-Asn,Cavernicola_pilosa_U37,tRNA,4622,4686,65,forward
+tRNA-Ser,Cavernicola_pilosa_U37,tRNA,4686,4755,70,forward
+tRNA-Glu,Cavernicola_pilosa_U37,tRNA,4756,4823,68,forward
+tRNA-Phe,Cavernicola_pilosa_U37,tRNA,4828,4895,68,reverse
+ND5 gene,Cavernicola_pilosa_U37,gene,4896,6599,1704,reverse
+ND5 CDS,Cavernicola_pilosa_U37,CDS,4896,6599,1704,reverse
+tRNA-His,Cavernicola_pilosa_U37,tRNA,6600,6664,65,reverse
+ND4 gene,Cavernicola_pilosa_U37,gene,6664,7983,1320,reverse
+ND4 CDS,Cavernicola_pilosa_U37,CDS,6664,7983,1320,reverse
+ND4L gene,Cavernicola_pilosa_U37,gene,7977,8264,288,reverse
+ND4L CDS,Cavernicola_pilosa_U37,CDS,7977,8264,288,reverse
+tRNA-Thr,Cavernicola_pilosa_U37,tRNA,8267,8329,63,forward
+tRNA-Pro,Cavernicola_pilosa_U37,tRNA,8330,8391,62,reverse
+ND6 gene,Cavernicola_pilosa_U37,gene,8393,8878,486,forward
+ND6 CDS,Cavernicola_pilosa_U37,CDS,8393,8878,486,forward
+CYTB gene,Cavernicola_pilosa_U37,gene,8878,10008,1131,forward
+CYTB CDS,Cavernicola_pilosa_U37,CDS,8878,10008,1131,forward
+tRNA-Ser,Cavernicola_pilosa_U37,tRNA,10011,10078,68,forward
+ND1 gene,Cavernicola_pilosa_U37,gene,10794,11714,921,reverse
+ND1 CDS,Cavernicola_pilosa_U37,CDS,10794,11714,921,reverse
+tRNA-Leu,Cavernicola_pilosa_U37,tRNA,11715,11778,64,reverse
+tRNA-Val,Cavernicola_pilosa_U37,tRNA,13039,13109,71,reverse
+tRNA-Trp gene,Cavernicola_pilosa_U37,gene,14935,14995,61,reverse
+tRNA-Trp,Cavernicola_pilosa_U37,tRNA,14935,14995,61,reverse
+tRNA-Tyr,Cavernicola_pilosa_U37,tRNA,14995,15059,65,reverse
+COX1 gene,Dipetalogaster_maxima_U33,gene,1,540,540,forward
+COX1 CDS,Dipetalogaster_maxima_U33,CDS,1,540,540,forward
+tRNA-Leu,Dipetalogaster_maxima_U33,tRNA,535,602,68,forward
+COX2 gene,Dipetalogaster_maxima_U33,gene,602,1280,679,forward
+COX2 CDS,Dipetalogaster_maxima_U33,CDS,602,1280,679,forward
+tRNA-Lys,Dipetalogaster_maxima_U33,tRNA,1281,1350,70,forward
+tRNA-Asp,Dipetalogaster_maxima_U33,tRNA,1350,1414,65,forward
+ATP8 gene,Dipetalogaster_maxima_U33,gene,1415,1573,159,forward
+ATP8 CDS,Dipetalogaster_maxima_U33,CDS,1415,1573,159,forward
+ATP6 gene,Dipetalogaster_maxima_U33,gene,1567,2236,670,forward
+ATP6 CDS,Dipetalogaster_maxima_U33,CDS,1567,2236,670,forward
+COX3 gene,Dipetalogaster_maxima_U33,gene,2237,3022,786,forward
+COX3 CDS,Dipetalogaster_maxima_U33,CDS,2237,3022,786,forward
+tRNA-Gly,Dipetalogaster_maxima_U33,tRNA,3022,3084,63,forward
+ND3 gene,Dipetalogaster_maxima_U33,gene,3085,3438,354,forward
+ND3 CDS,Dipetalogaster_maxima_U33,CDS,3085,3438,354,forward
+tRNA-Ala,Dipetalogaster_maxima_U33,tRNA,3445,3505,61,forward
+tRNA-Arg,Dipetalogaster_maxima_U33,tRNA,3510,3574,65,forward
+tRNA-Asn,Dipetalogaster_maxima_U33,tRNA,3577,3641,65,forward
+tRNA-Ser,Dipetalogaster_maxima_U33,tRNA,3641,3709,69,forward
+tRNA-Glu,Dipetalogaster_maxima_U33,tRNA,3711,3777,67,forward
+tRNA-Phe,Dipetalogaster_maxima_U33,tRNA,3777,3841,65,reverse
+ND5 gene,Dipetalogaster_maxima_U33,gene,3841,5553,1713,reverse
+ND5 CDS,Dipetalogaster_maxima_U33,CDS,3841,5553,1713,reverse
+tRNA-His,Dipetalogaster_maxima_U33,tRNA,5554,5622,69,reverse
+ND4 gene,Dipetalogaster_maxima_U33,gene,5622,6953,1332,reverse
+ND4 CDS,Dipetalogaster_maxima_U33,CDS,5622,6953,1332,reverse
+ND4L gene,Dipetalogaster_maxima_U33,gene,6947,7240,294,reverse
+ND4L CDS,Dipetalogaster_maxima_U33,CDS,6947,7240,294,reverse
+tRNA-Thr,Dipetalogaster_maxima_U33,tRNA,7243,7305,63,forward
+tRNA-Pro,Dipetalogaster_maxima_U33,tRNA,7306,7371,66,reverse
+ND6 gene,Dipetalogaster_maxima_U33,gene,7375,7875,501,forward
+ND6 CDS,Dipetalogaster_maxima_U33,CDS,7375,7875,501,forward
+CYTB gene,Dipetalogaster_maxima_U33,gene,7875,9008,1134,forward
+CYTB CDS,Dipetalogaster_maxima_U33,CDS,7875,9008,1134,forward
+tRNA-Ser,Dipetalogaster_maxima_U33,tRNA,9007,9074,68,forward
+COX1 gene,Eratyrus_mucronatus_MT556648,gene,1,1539,1539,forward
+COX1 CDS,Eratyrus_mucronatus_MT556648,CDS,1,1539,1539,forward
+tRNA-Leu,Eratyrus_mucronatus_MT556648,tRNA,1534,1601,68,forward
+COX2 gene,Eratyrus_mucronatus_MT556648,gene,1601,2279,679,forward
+COX2 CDS,Eratyrus_mucronatus_MT556648,CDS,1601,2279,679,forward
+tRNA-Lys,Eratyrus_mucronatus_MT556648,tRNA,2280,2349,70,forward
+tRNA-Asp,Eratyrus_mucronatus_MT556648,tRNA,2349,2412,64,forward
+ATP8 gene,Eratyrus_mucronatus_MT556648,gene,2413,2571,159,forward
+ATP8 CDS,Eratyrus_mucronatus_MT556648,CDS,2413,2571,159,forward
+ATP6 gene,Eratyrus_mucronatus_MT556648,gene,2565,3245,681,forward
+ATP6 CDS,Eratyrus_mucronatus_MT556648,CDS,2565,3245,681,forward
+COX3 gene,Eratyrus_mucronatus_MT556648,gene,3232,4017,786,forward
+COX3 CDS,Eratyrus_mucronatus_MT556648,CDS,3232,4017,786,forward
+tRNA-Gly,Eratyrus_mucronatus_MT556648,tRNA,4017,4079,63,forward
+ND3 gene,Eratyrus_mucronatus_MT556648,gene,4080,4433,354,forward
+ND3 CDS,Eratyrus_mucronatus_MT556648,CDS,4080,4433,354,forward
+tRNA-Ala,Eratyrus_mucronatus_MT556648,tRNA,4435,4496,62,forward
+tRNA-Arg,Eratyrus_mucronatus_MT556648,tRNA,4501,4563,63,forward
+tRNA-Asn,Eratyrus_mucronatus_MT556648,tRNA,4568,4631,64,forward
+tRNA-Ser,Eratyrus_mucronatus_MT556648,tRNA,4631,4700,70,forward
+tRNA-Glu,Eratyrus_mucronatus_MT556648,tRNA,4701,4764,64,forward
+tRNA-Phe,Eratyrus_mucronatus_MT556648,tRNA,4764,4827,64,reverse
+ND5 gene,Eratyrus_mucronatus_MT556648,gene,4827,6539,1713,reverse
+ND5 CDS,Eratyrus_mucronatus_MT556648,CDS,4827,6539,1713,reverse
+tRNA-His,Eratyrus_mucronatus_MT556648,tRNA,6540,6604,65,reverse
+ND4 gene,Eratyrus_mucronatus_MT556648,gene,6604,7935,1332,reverse
+ND4 CDS,Eratyrus_mucronatus_MT556648,CDS,6604,7935,1332,reverse
+ND4L gene,Eratyrus_mucronatus_MT556648,gene,7929,8222,294,reverse
+ND4L CDS,Eratyrus_mucronatus_MT556648,CDS,7929,8222,294,reverse
+tRNA-Thr,Eratyrus_mucronatus_MT556648,tRNA,8225,8289,65,forward
+tRNA-Pro,Eratyrus_mucronatus_MT556648,tRNA,8290,8358,69,reverse
+ND6 gene,Eratyrus_mucronatus_MT556648,gene,8362,8862,501,forward
+ND6 CDS,Eratyrus_mucronatus_MT556648,CDS,8362,8862,501,forward
+CYTB gene,Eratyrus_mucronatus_MT556648,gene,8862,9956,1095,forward
+CYTB CDS,Eratyrus_mucronatus_MT556648,CDS,8862,9956,1095,forward
+tRNA-Ser,Eratyrus_mucronatus_MT556648,tRNA,9996,10064,69,forward
+ND1 gene,Eratyrus_mucronatus_MT556648,gene,10141,11058,918,reverse
+ND1 CDS,Eratyrus_mucronatus_MT556648,CDS,10141,11058,918,reverse
+tRNA-Leu,Eratyrus_mucronatus_MT556648,tRNA,11059,11123,65,reverse
+tRNA-Val,Eratyrus_mucronatus_MT556648,tRNA,12378,12447,70,reverse
+tRNA-Ile,Eratyrus_mucronatus_MT556648,tRNA,14383,14446,64,forward
+tRNA-Gln,Eratyrus_mucronatus_MT556648,tRNA,14444,14512,69,reverse
+tRNA-Met,Eratyrus_mucronatus_MT556648,tRNA,14512,14580,69,forward
+ND2 gene,Eratyrus_mucronatus_MT556648,gene,14581,15579,999,forward
+ND2 CDS,Eratyrus_mucronatus_MT556648,CDS,14581,15579,999,forward
+tRNA-Trp,Eratyrus_mucronatus_MT556648,tRNA,15578,15643,66,forward
+tRNA-Cys,Eratyrus_mucronatus_MT556648,tRNA,15635,15698,64,reverse
+tRNA-Tyr,Eratyrus_mucronatus_MT556648,tRNA,15699,15765,67,reverse
+COX1 gene,Microtriatoma_trinidadensis_U26,gene,1,1539,1539,forward
+COX1 CDS,Microtriatoma_trinidadensis_U26,CDS,1,1539,1539,forward
+tRNA-Leu,Microtriatoma_trinidadensis_U26,tRNA,1534,1601,68,forward
+COX2 gene,Microtriatoma_trinidadensis_U26,gene,1601,2279,679,forward
+COX2 CDS,Microtriatoma_trinidadensis_U26,CDS,1601,2279,679,forward
+tRNA-Lys,Microtriatoma_trinidadensis_U26,tRNA,2280,2350,71,forward
+tRNA-Asp,Microtriatoma_trinidadensis_U26,tRNA,2356,2420,65,forward
+ATP8 gene,Microtriatoma_trinidadensis_U26,gene,2421,2579,159,forward
+ATP8 CDS,Microtriatoma_trinidadensis_U26,CDS,2421,2579,159,forward
+ATP6 gene,Microtriatoma_trinidadensis_U26,gene,2573,3256,684,forward
+ATP6 CDS,Microtriatoma_trinidadensis_U26,CDS,2573,3256,684,forward
+COX3 gene,Microtriatoma_trinidadensis_U26,gene,3243,4030,788,forward
+COX3 CDS,Microtriatoma_trinidadensis_U26,CDS,3243,4030,788,forward
+tRNA-Gly,Microtriatoma_trinidadensis_U26,tRNA,4030,4090,61,forward
+ND3 gene,Microtriatoma_trinidadensis_U26,gene,4091,4444,354,forward
+ND3 CDS,Microtriatoma_trinidadensis_U26,CDS,4091,4444,354,forward
+tRNA-Ala,Microtriatoma_trinidadensis_U26,tRNA,4443,4505,63,forward
+tRNA-Arg,Microtriatoma_trinidadensis_U26,tRNA,4521,4583,63,forward
+tRNA-Asn,Microtriatoma_trinidadensis_U26,tRNA,4585,4650,66,forward
+tRNA-Ser,Microtriatoma_trinidadensis_U26,tRNA,4650,4719,70,forward
+tRNA-Glu,Microtriatoma_trinidadensis_U26,tRNA,4722,4781,60,forward
+tRNA-Phe,Microtriatoma_trinidadensis_U26,tRNA,4781,4844,64,reverse
+ND5 gene,Microtriatoma_trinidadensis_U26,gene,4846,6540,1695,reverse
+ND5 CDS,Microtriatoma_trinidadensis_U26,CDS,4846,6540,1695,reverse
+tRNA-His,Microtriatoma_trinidadensis_U26,tRNA,6655,6719,65,reverse
+ND4 gene,Microtriatoma_trinidadensis_U26,gene,6719,8050,1332,reverse
+ND4 CDS,Microtriatoma_trinidadensis_U26,CDS,6719,8050,1332,reverse
+ND4L gene,Microtriatoma_trinidadensis_U26,gene,8044,8334,291,reverse
+ND4L CDS,Microtriatoma_trinidadensis_U26,CDS,8044,8334,291,reverse
+tRNA-Thr,Microtriatoma_trinidadensis_U26,tRNA,8336,8397,62,forward
+tRNA-Pro,Microtriatoma_trinidadensis_U26,tRNA,8398,8467,70,reverse
+ND6 gene,Microtriatoma_trinidadensis_U26,gene,8470,8961,492,forward
+ND6 CDS,Microtriatoma_trinidadensis_U26,CDS,8470,8961,492,forward
+CYTB gene,Microtriatoma_trinidadensis_U26,gene,8961,10094,1134,forward
+CYTB CDS,Microtriatoma_trinidadensis_U26,CDS,8961,10094,1134,forward
+tRNA-Ser,Microtriatoma_trinidadensis_U26,tRNA,10093,10162,70,forward
+ND1 gene,Microtriatoma_trinidadensis_U26,gene,11738,12667,930,reverse
+ND1 CDS,Microtriatoma_trinidadensis_U26,CDS,11738,12667,930,reverse
+tRNA-Leu,Microtriatoma_trinidadensis_U26,tRNA,12668,12732,65,reverse
+tRNA-Val,Microtriatoma_trinidadensis_U26,tRNA,13983,14050,68,reverse
+tRNA-Ile,Microtriatoma_trinidadensis_U26,tRNA,17263,17326,64,forward
+tRNA-Gln,Microtriatoma_trinidadensis_U26,tRNA,17324,17392,69,reverse
+tRNA-Met,Microtriatoma_trinidadensis_U26,tRNA,17392,17459,68,forward
+ND2 gene,Microtriatoma_trinidadensis_U26,gene,17460,18455,996,forward
+ND2 CDS,Microtriatoma_trinidadensis_U26,CDS,17460,18455,996,forward
+tRNA-Trp,Microtriatoma_trinidadensis_U26,tRNA,18454,18519,66,forward
+tRNA-Cys,Microtriatoma_trinidadensis_U26,tRNA,18511,18582,72,reverse
+tRNA-Tyr,Microtriatoma_trinidadensis_U26,tRNA,18582,18646,65,reverse
+COX1 gene,Oncocephalus_breviscutum_NC_022816,gene,1,1539,1539,forward
+COX1 CDS,Oncocephalus_breviscutum_NC_022816,CDS,1,1539,1539,forward
+tRNA-Leu,Oncocephalus_breviscutum_NC_022816,tRNA,1534,1600,67,forward
+COX2 gene,Oncocephalus_breviscutum_NC_022816,gene,1600,2278,679,forward
+COX2 CDS,Oncocephalus_breviscutum_NC_022816,CDS,1600,2278,679,forward
+tRNA-Lys,Oncocephalus_breviscutum_NC_022816,tRNA,2279,2348,70,forward
+tRNA-Asp,Oncocephalus_breviscutum_NC_022816,tRNA,2348,2410,63,forward
+ATP8 gene,Oncocephalus_breviscutum_NC_022816,gene,2411,2566,156,forward
+ATP8 CDS,Oncocephalus_breviscutum_NC_022816,CDS,2411,2566,156,forward
+ATP6 gene,Oncocephalus_breviscutum_NC_022816,gene,2560,3270,711,forward
+ATP6 CDS,Oncocephalus_breviscutum_NC_022816,CDS,2560,3270,711,forward
+COX3 gene,Oncocephalus_breviscutum_NC_022816,gene,3230,4014,785,forward
+COX3 CDS,Oncocephalus_breviscutum_NC_022816,CDS,3230,4014,785,forward
+tRNA-Gly,Oncocephalus_breviscutum_NC_022816,tRNA,4014,4075,62,forward
+ND3 gene,Oncocephalus_breviscutum_NC_022816,gene,4076,4429,354,forward
+ND3 CDS,Oncocephalus_breviscutum_NC_022816,CDS,4076,4429,354,forward
+tRNA-Ala,Oncocephalus_breviscutum_NC_022816,tRNA,4429,4489,61,forward
+tRNA-Arg,Oncocephalus_breviscutum_NC_022816,tRNA,4491,4553,63,forward
+tRNA-Asn,Oncocephalus_breviscutum_NC_022816,tRNA,4562,4627,66,forward
+tRNA-Ser,Oncocephalus_breviscutum_NC_022816,tRNA,4627,4696,70,forward
+tRNA-Glu,Oncocephalus_breviscutum_NC_022816,tRNA,4697,4759,63,forward
+tRNA-Phe,Oncocephalus_breviscutum_NC_022816,tRNA,4763,4828,66,reverse
+ND5 gene,Oncocephalus_breviscutum_NC_022816,gene,4828,6539,1712,reverse
+ND5 CDS,Oncocephalus_breviscutum_NC_022816,CDS,4828,6539,1712,reverse
+tRNA-His,Oncocephalus_breviscutum_NC_022816,tRNA,6540,6604,65,reverse
+ND4 gene,Oncocephalus_breviscutum_NC_022816,gene,6605,7936,1332,reverse
+ND4 CDS,Oncocephalus_breviscutum_NC_022816,CDS,6605,7936,1332,reverse
+ND4L gene,Oncocephalus_breviscutum_NC_022816,gene,7930,8223,294,reverse
+ND4L CDS,Oncocephalus_breviscutum_NC_022816,CDS,7930,8223,294,reverse
+tRNA-Thr,Oncocephalus_breviscutum_NC_022816,tRNA,8226,8289,64,forward
+tRNA-Pro,Oncocephalus_breviscutum_NC_022816,tRNA,8290,8353,64,reverse
+ND6 gene,Oncocephalus_breviscutum_NC_022816,gene,8357,8857,501,forward
+ND6 CDS,Oncocephalus_breviscutum_NC_022816,CDS,8357,8857,501,forward
+CYTB gene,Oncocephalus_breviscutum_NC_022816,gene,8860,9996,1137,forward
+CYTB CDS,Oncocephalus_breviscutum_NC_022816,CDS,8860,9996,1137,forward
+tRNA-Ser,Oncocephalus_breviscutum_NC_022816,tRNA,9995,10062,68,forward
+ND1 gene,Oncocephalus_breviscutum_NC_022816,gene,10150,11067,918,reverse
+ND1 CDS,Oncocephalus_breviscutum_NC_022816,CDS,10150,11067,918,reverse
+tRNA-Leu,Oncocephalus_breviscutum_NC_022816,tRNA,11068,11132,65,reverse
+tRNA-Val,Oncocephalus_breviscutum_NC_022816,tRNA,12389,12456,68,reverse
+tRNA-Ile,Oncocephalus_breviscutum_NC_022816,tRNA,14578,14641,64,forward
+tRNA-Gln,Oncocephalus_breviscutum_NC_022816,tRNA,14639,14707,69,reverse
+tRNA-Met,Oncocephalus_breviscutum_NC_022816,tRNA,14707,14774,68,forward
+ND2 gene,Oncocephalus_breviscutum_NC_022816,gene,14775,15773,999,forward
+ND2 CDS,Oncocephalus_breviscutum_NC_022816,CDS,14775,15773,999,forward
+tRNA-Trp,Oncocephalus_breviscutum_NC_022816,tRNA,15772,15837,66,forward
+tRNA-Cys,Oncocephalus_breviscutum_NC_022816,tRNA,15829,15894,66,reverse
+tRNA-Tyr,Oncocephalus_breviscutum_NC_022816,tRNA,15894,15959,66,reverse
+COX1 gene,Panstrongylus_geniculatus_P5,gene,1,1539,1539,forward
+COX1 CDS,Panstrongylus_geniculatus_P5,CDS,1,1539,1539,forward
+tRNA-Leu,Panstrongylus_geniculatus_P5,tRNA,1534,1602,69,forward
+COX2 gene,Panstrongylus_geniculatus_P5,gene,1602,2280,679,forward
+COX2 CDS,Panstrongylus_geniculatus_P5,CDS,1602,2280,679,forward
+tRNA-Lys,Panstrongylus_geniculatus_P5,tRNA,2281,2350,70,forward
+tRNA-Asp,Panstrongylus_geniculatus_P5,tRNA,2350,2413,64,forward
+ATP8 gene,Panstrongylus_geniculatus_P5,gene,2414,2572,159,forward
+ATP8 CDS,Panstrongylus_geniculatus_P5,CDS,2414,2572,159,forward
+ATP6 gene,Panstrongylus_geniculatus_P5,gene,2566,3249,684,forward
+ATP6 CDS,Panstrongylus_geniculatus_P5,CDS,2566,3249,684,forward
+COX3 gene,Panstrongylus_geniculatus_P5,gene,3236,4021,786,forward
+COX3 CDS,Panstrongylus_geniculatus_P5,CDS,3236,4021,786,forward
+tRNA-Gly,Panstrongylus_geniculatus_P5,tRNA,4021,4083,63,forward
+ND3 gene,Panstrongylus_geniculatus_P5,gene,4084,4437,354,forward
+ND3 CDS,Panstrongylus_geniculatus_P5,CDS,4084,4437,354,forward
+tRNA-Ala,Panstrongylus_geniculatus_P5,tRNA,4438,4499,62,forward
+tRNA-Arg,Panstrongylus_geniculatus_P5,tRNA,4504,4570,67,forward
+tRNA-Asn,Panstrongylus_geniculatus_P5,tRNA,4578,4643,66,forward
+tRNA-Ser,Panstrongylus_geniculatus_P5,tRNA,4643,4711,69,forward
+tRNA-Glu,Panstrongylus_geniculatus_P5,tRNA,4713,4777,65,forward
+tRNA-Phe,Panstrongylus_geniculatus_P5,tRNA,4815,4881,67,reverse
+ND5 gene,Panstrongylus_geniculatus_P5,gene,4881,6593,1713,reverse
+ND5 CDS,Panstrongylus_geniculatus_P5,CDS,4881,6593,1713,reverse
+tRNA-His,Panstrongylus_geniculatus_P5,tRNA,6594,6655,62,reverse
+ND4 gene,Panstrongylus_geniculatus_P5,gene,6655,7986,1332,reverse
+ND4 CDS,Panstrongylus_geniculatus_P5,CDS,6655,7986,1332,reverse
+ND4L gene,Panstrongylus_geniculatus_P5,gene,7980,8273,294,reverse
+ND4L CDS,Panstrongylus_geniculatus_P5,CDS,7980,8273,294,reverse
+tRNA-Thr,Panstrongylus_geniculatus_P5,tRNA,8276,8340,65,forward
+tRNA-Pro,Panstrongylus_geniculatus_P5,tRNA,8341,8406,66,reverse
+ND6 gene,Panstrongylus_geniculatus_P5,gene,8409,8909,501,forward
+ND6 CDS,Panstrongylus_geniculatus_P5,CDS,8409,8909,501,forward
+CYTB gene,Panstrongylus_geniculatus_P5,gene,8909,10042,1134,forward
+CYTB CDS,Panstrongylus_geniculatus_P5,CDS,8909,10042,1134,forward
+tRNA-Ser,Panstrongylus_geniculatus_P5,tRNA,10045,10113,69,forward
+ND1 gene,Panstrongylus_geniculatus_P5,gene,10373,11290,918,reverse
+ND1 CDS,Panstrongylus_geniculatus_P5,CDS,10373,11290,918,reverse
+tRNA-Leu,Panstrongylus_geniculatus_P5,tRNA,11291,11355,65,reverse
+tRNA-Val,Panstrongylus_geniculatus_P5,tRNA,12611,12680,70,reverse
+tRNA-Ile,Panstrongylus_geniculatus_P5,tRNA,14724,14787,64,forward
+tRNA-Gln,Panstrongylus_geniculatus_P5,tRNA,14785,14853,69,reverse
+tRNA-Met,Panstrongylus_geniculatus_P5,tRNA,14854,14921,68,forward
+ND2 gene,Panstrongylus_geniculatus_P5,gene,14922,15920,999,forward
+ND2 CDS,Panstrongylus_geniculatus_P5,CDS,14922,15920,999,forward
+tRNA-Trp,Panstrongylus_geniculatus_P5,tRNA,15927,15992,66,forward
+tRNA-Cys,Panstrongylus_geniculatus_P5,tRNA,15984,16047,64,reverse
+tRNA-Tyr,Panstrongylus_geniculatus_P5,tRNA,16047,16112,66,reverse
+COX1 gene,Panstrongylus_rufotuberculatus_P16,gene,1,1539,1539,forward
+COX1 CDS,Panstrongylus_rufotuberculatus_P16,CDS,1,1539,1539,forward
+tRNA-Leu,Panstrongylus_rufotuberculatus_P16,tRNA,1534,1603,70,forward
+COX2 gene,Panstrongylus_rufotuberculatus_P16,gene,1603,2281,679,forward
+COX2 CDS,Panstrongylus_rufotuberculatus_P16,CDS,1603,2281,679,forward
+tRNA-Lys,Panstrongylus_rufotuberculatus_P16,tRNA,2282,2351,70,forward
+tRNA-Asp,Panstrongylus_rufotuberculatus_P16,tRNA,2351,2414,64,forward
+ATP8 gene,Panstrongylus_rufotuberculatus_P16,gene,2415,2573,159,forward
+ATP8 CDS,Panstrongylus_rufotuberculatus_P16,CDS,2415,2573,159,forward
+ATP6 gene,Panstrongylus_rufotuberculatus_P16,gene,2567,3251,685,forward
+ATP6 CDS,Panstrongylus_rufotuberculatus_P16,CDS,2567,3251,685,forward
+COX3 gene,Panstrongylus_rufotuberculatus_P16,gene,3237,4022,786,forward
+COX3 CDS,Panstrongylus_rufotuberculatus_P16,CDS,3237,4022,786,forward
+tRNA-Gly,Panstrongylus_rufotuberculatus_P16,tRNA,4022,4084,63,forward
+ND3 gene,Panstrongylus_rufotuberculatus_P16,gene,4085,4438,354,forward
+ND3 CDS,Panstrongylus_rufotuberculatus_P16,CDS,4085,4438,354,forward
+tRNA-Ala,Panstrongylus_rufotuberculatus_P16,tRNA,4438,4498,61,forward
+tRNA-Arg,Panstrongylus_rufotuberculatus_P16,tRNA,4548,4611,64,forward
+tRNA-Asn,Panstrongylus_rufotuberculatus_P16,tRNA,4616,4679,64,forward
+tRNA-Ser,Panstrongylus_rufotuberculatus_P16,tRNA,4679,4748,70,forward
+tRNA-Glu,Panstrongylus_rufotuberculatus_P16,tRNA,4750,4812,63,forward
+tRNA-Phe,Panstrongylus_rufotuberculatus_P16,tRNA,4812,4876,65,reverse
+ND5 gene,Panstrongylus_rufotuberculatus_P16,gene,4876,6588,1713,reverse
+ND5 CDS,Panstrongylus_rufotuberculatus_P16,CDS,4876,6588,1713,reverse
+tRNA-His,Panstrongylus_rufotuberculatus_P16,tRNA,6589,6656,68,reverse
+ND4 gene,Panstrongylus_rufotuberculatus_P16,gene,6656,7987,1332,reverse
+ND4 CDS,Panstrongylus_rufotuberculatus_P16,CDS,6656,7987,1332,reverse
+ND4L gene,Panstrongylus_rufotuberculatus_P16,gene,7981,8274,294,reverse
+ND4L CDS,Panstrongylus_rufotuberculatus_P16,CDS,7981,8274,294,reverse
+tRNA-Thr,Panstrongylus_rufotuberculatus_P16,tRNA,8277,8340,64,forward
+tRNA-Pro,Panstrongylus_rufotuberculatus_P16,tRNA,8341,8404,64,reverse
+ND6 gene,Panstrongylus_rufotuberculatus_P16,gene,8408,8908,501,forward
+ND6 CDS,Panstrongylus_rufotuberculatus_P16,CDS,8408,8908,501,forward
+CYTB gene,Panstrongylus_rufotuberculatus_P16,gene,8908,10041,1134,forward
+CYTB CDS,Panstrongylus_rufotuberculatus_P16,CDS,8908,10041,1134,forward
+tRNA-Ser,Panstrongylus_rufotuberculatus_P16,tRNA,10040,10108,69,forward
+tRNA-Ile,Panstrongylus_rufotuberculatus_P16,tRNA,11012,11075,64,forward
+tRNA-Gln,Panstrongylus_rufotuberculatus_P16,tRNA,11073,11141,69,reverse
+tRNA-Met,Panstrongylus_rufotuberculatus_P16,tRNA,11141,11208,68,forward
+ND2 gene,Panstrongylus_rufotuberculatus_P16,gene,11209,12207,999,forward
+ND2 CDS,Panstrongylus_rufotuberculatus_P16,CDS,11209,12207,999,forward
+tRNA-Trp,Panstrongylus_rufotuberculatus_P16,tRNA,12213,12278,66,forward
+tRNA-Cys,Panstrongylus_rufotuberculatus_P16,tRNA,12270,12335,66,reverse
+tRNA-Tyr,Panstrongylus_rufotuberculatus_P16,tRNA,12335,12399,65,reverse
+COX1 gene,Paratriatoma_hirsuta_T16,gene,1,1539,1539,forward
+COX1 CDS,Paratriatoma_hirsuta_T16,CDS,1,1539,1539,forward
+tRNA-Leu,Paratriatoma_hirsuta_T16,tRNA,1534,1602,69,forward
+COX2 gene,Paratriatoma_hirsuta_T16,gene,1602,2280,679,forward
+COX2 CDS,Paratriatoma_hirsuta_T16,CDS,1602,2280,679,forward
+tRNA-Lys,Paratriatoma_hirsuta_T16,tRNA,2281,2350,70,forward
+tRNA-Asp,Paratriatoma_hirsuta_T16,tRNA,2350,2414,65,forward
+ATP8 gene,Paratriatoma_hirsuta_T16,gene,2415,2573,159,forward
+ATP8 CDS,Paratriatoma_hirsuta_T16,CDS,2415,2573,159,forward
+ATP6 gene,Paratriatoma_hirsuta_T16,gene,2567,3251,685,forward
+ATP6 CDS,Paratriatoma_hirsuta_T16,CDS,2567,3251,685,forward
+COX3 gene,Paratriatoma_hirsuta_T16,gene,3237,4022,786,forward
+COX3 CDS,Paratriatoma_hirsuta_T16,CDS,3237,4022,786,forward
+tRNA-Gly,Paratriatoma_hirsuta_T16,tRNA,4022,4084,63,forward
+ND3 gene,Paratriatoma_hirsuta_T16,gene,4085,4438,354,forward
+ND3 CDS,Paratriatoma_hirsuta_T16,CDS,4085,4438,354,forward
+tRNA-Ala,Paratriatoma_hirsuta_T16,tRNA,4442,4503,62,forward
+tRNA-Arg,Paratriatoma_hirsuta_T16,tRNA,4508,4571,64,forward
+tRNA-Ala,Paratriatoma_hirsuta_T16,tRNA,4762,4823,62,forward
+tRNA-Arg,Paratriatoma_hirsuta_T16,tRNA,4828,4889,62,forward
+tRNA-Asn,Paratriatoma_hirsuta_T16,tRNA,4976,5040,65,forward
+tRNA-Ser,Paratriatoma_hirsuta_T16,tRNA,5040,5108,69,forward
+tRNA-Glu,Paratriatoma_hirsuta_T16,tRNA,5109,5170,62,forward
+tRNA-Phe,Paratriatoma_hirsuta_T16,tRNA,5170,5235,66,reverse
+ND5 gene,Paratriatoma_hirsuta_T16,gene,5235,6947,1713,reverse
+ND5 CDS,Paratriatoma_hirsuta_T16,CDS,5235,6947,1713,reverse
+tRNA-His,Paratriatoma_hirsuta_T16,tRNA,6948,7015,68,reverse
+ND4 gene,Paratriatoma_hirsuta_T16,gene,7015,8346,1332,reverse
+ND4 CDS,Paratriatoma_hirsuta_T16,CDS,7015,8346,1332,reverse
+ND4L gene,Paratriatoma_hirsuta_T16,gene,8340,8633,294,reverse
+ND4L CDS,Paratriatoma_hirsuta_T16,CDS,8340,8633,294,reverse
+tRNA-Thr,Paratriatoma_hirsuta_T16,tRNA,8636,8698,63,forward
+tRNA-Pro,Paratriatoma_hirsuta_T16,tRNA,8699,8765,67,reverse
+ND6 gene,Paratriatoma_hirsuta_T16,gene,8769,9269,501,forward
+ND6 CDS,Paratriatoma_hirsuta_T16,CDS,8769,9269,501,forward
+CYTB gene,Paratriatoma_hirsuta_T16,gene,9269,10402,1134,forward
+CYTB CDS,Paratriatoma_hirsuta_T16,CDS,9269,10402,1134,forward
+tRNA-Ser,Paratriatoma_hirsuta_T16,tRNA,10401,10467,67,forward
+ND1 gene,Paratriatoma_hirsuta_T16,gene,10962,11879,918,reverse
+ND1 CDS,Paratriatoma_hirsuta_T16,CDS,10962,11879,918,reverse
+tRNA-Leu,Paratriatoma_hirsuta_T16,tRNA,11880,11944,65,reverse
+tRNA-Ile,Paratriatoma_hirsuta_T16,tRNA,14409,14472,64,forward
+tRNA-Gln,Paratriatoma_hirsuta_T16,tRNA,14470,14538,69,reverse
+tRNA-Met,Paratriatoma_hirsuta_T16,tRNA,14538,14605,68,forward
+ND2 gene,Paratriatoma_hirsuta_T16,gene,14606,15604,999,forward
+ND2 CDS,Paratriatoma_hirsuta_T16,CDS,14606,15604,999,forward
+tRNA-Trp,Paratriatoma_hirsuta_T16,tRNA,15610,15675,66,forward
+tRNA-Cys,Paratriatoma_hirsuta_T16,tRNA,15667,15730,64,reverse
+tRNA-Tyr,Paratriatoma_hirsuta_T16,tRNA,15730,15793,64,reverse
+COX1 gene,Psammolestes_coreodes_TRIA_013,gene,1,1536,1536,forward
+COX1 CDS,Psammolestes_coreodes_TRIA_013,CDS,1,1536,1536,forward
+tRNA-Leu,Psammolestes_coreodes_TRIA_013,tRNA,1534,1610,77,forward
+COX2 gene,Psammolestes_coreodes_TRIA_013,gene,1610,2287,678,forward
+COX2 CDS,Psammolestes_coreodes_TRIA_013,CDS,1610,2287,678,forward
+tRNA-Lys,Psammolestes_coreodes_TRIA_013,tRNA,2294,2364,71,forward
+tRNA-Asp,Psammolestes_coreodes_TRIA_013,tRNA,2364,2427,64,forward
+ATP8 gene,Psammolestes_coreodes_TRIA_013,gene,2429,2590,162,forward
+ATP8 CDS,Psammolestes_coreodes_TRIA_013,CDS,2429,2590,162,forward
+ATP6 gene,Psammolestes_coreodes_TRIA_013,gene,2584,3267,684,forward
+ATP6 CDS,Psammolestes_coreodes_TRIA_013,CDS,2584,3267,684,forward
+COX3 gene,Psammolestes_coreodes_TRIA_013,gene,3254,4039,786,forward
+COX3 CDS,Psammolestes_coreodes_TRIA_013,CDS,3254,4039,786,forward
+tRNA-Gly,Psammolestes_coreodes_TRIA_013,tRNA,4039,4101,63,forward
+ND3 gene,Psammolestes_coreodes_TRIA_013,gene,4102,4455,354,forward
+ND3 CDS,Psammolestes_coreodes_TRIA_013,CDS,4102,4455,354,forward
+tRNA-Ala,Psammolestes_coreodes_TRIA_013,tRNA,4470,4531,62,forward
+tRNA-Arg,Psammolestes_coreodes_TRIA_013,tRNA,4531,4595,65,forward
+tRNA-Asn,Psammolestes_coreodes_TRIA_013,tRNA,4596,4662,67,forward
+tRNA-Ser,Psammolestes_coreodes_TRIA_013,tRNA,4662,4729,68,forward
+tRNA-Glu,Psammolestes_coreodes_TRIA_013,tRNA,4731,4797,67,forward
+tRNA-Phe,Psammolestes_coreodes_TRIA_013,tRNA,4797,4868,72,reverse
+ND5 gene,Psammolestes_coreodes_TRIA_013,gene,4868,5286,419,reverse
+ND5 CDS,Psammolestes_coreodes_TRIA_013,CDS,4868,5286,419,reverse
+tRNA-Ile,Psammolestes_coreodes_TRIA_013,tRNA,5937,6003,67,forward
+tRNA-Gln,Psammolestes_coreodes_TRIA_013,tRNA,6001,6069,69,reverse
+tRNA-Met,Psammolestes_coreodes_TRIA_013,tRNA,6069,6136,68,forward
+ND2 gene,Psammolestes_coreodes_TRIA_013,gene,6137,7132,996,forward
+ND2 CDS,Psammolestes_coreodes_TRIA_013,CDS,6137,7132,996,forward
+tRNA-Trp,Psammolestes_coreodes_TRIA_013,tRNA,7131,7196,66,forward
+tRNA-Cys,Psammolestes_coreodes_TRIA_013,tRNA,7188,7251,64,reverse
+tRNA-Tyr,Psammolestes_coreodes_TRIA_013,tRNA,7251,7316,66,reverse
+COX1 gene,Reduvius_gregoryi_NC_037746,gene,1,1534,1534,forward
+COX1 CDS,Reduvius_gregoryi_NC_037746,CDS,1,1534,1534,forward
+tRNA-Leu,Reduvius_gregoryi_NC_037746,tRNA,1534,1600,67,forward
+COX2 gene,Reduvius_gregoryi_NC_037746,gene,1600,2283,684,forward
+COX2 CDS,Reduvius_gregoryi_NC_037746,CDS,1600,2283,684,forward
+tRNA-Lys,Reduvius_gregoryi_NC_037746,tRNA,2299,2368,70,forward
+tRNA-Asp,Reduvius_gregoryi_NC_037746,tRNA,2369,2431,63,forward
+ATP8 gene,Reduvius_gregoryi_NC_037746,gene,2432,2590,159,forward
+ATP8 CDS,Reduvius_gregoryi_NC_037746,CDS,2432,2590,159,forward
+ATP6 gene,Reduvius_gregoryi_NC_037746,gene,2584,3271,688,forward
+ATP6 CDS,Reduvius_gregoryi_NC_037746,CDS,2584,3271,688,forward
+COX3 gene,Reduvius_gregoryi_NC_037746,gene,3254,4041,788,forward
+COX3 CDS,Reduvius_gregoryi_NC_037746,CDS,3254,4041,788,forward
+tRNA-Gly,Reduvius_gregoryi_NC_037746,tRNA,4041,4102,62,forward
+ND3 gene,Reduvius_gregoryi_NC_037746,gene,4103,4456,354,forward
+ND3 CDS,Reduvius_gregoryi_NC_037746,CDS,4103,4456,354,forward
+tRNA-Ala,Reduvius_gregoryi_NC_037746,tRNA,4456,4516,61,forward
+tRNA-Arg,Reduvius_gregoryi_NC_037746,tRNA,4521,4585,65,forward
+tRNA-Asn,Reduvius_gregoryi_NC_037746,tRNA,4585,4653,69,forward
+tRNA-Ser,Reduvius_gregoryi_NC_037746,tRNA,4653,4721,69,forward
+tRNA-Glu,Reduvius_gregoryi_NC_037746,tRNA,4722,4786,65,forward
+tRNA-Phe,Reduvius_gregoryi_NC_037746,tRNA,4786,4850,65,reverse
+ND5 gene,Reduvius_gregoryi_NC_037746,gene,4826,6562,1737,reverse
+ND5 CDS,Reduvius_gregoryi_NC_037746,CDS,4826,6562,1737,reverse
+tRNA-His,Reduvius_gregoryi_NC_037746,tRNA,6563,6623,61,reverse
+ND4 gene,Reduvius_gregoryi_NC_037746,gene,6624,7954,1331,reverse
+ND4 CDS,Reduvius_gregoryi_NC_037746,CDS,6624,7954,1331,reverse
+ND4L gene,Reduvius_gregoryi_NC_037746,gene,7948,8244,297,reverse
+ND4L CDS,Reduvius_gregoryi_NC_037746,CDS,7948,8244,297,reverse
+tRNA-Thr,Reduvius_gregoryi_NC_037746,tRNA,8247,8307,61,forward
+tRNA-Pro,Reduvius_gregoryi_NC_037746,tRNA,8308,8373,66,reverse
+ND6 gene,Reduvius_gregoryi_NC_037746,gene,8376,8876,501,forward
+ND6 CDS,Reduvius_gregoryi_NC_037746,CDS,8376,8876,501,forward
+CYTB gene,Reduvius_gregoryi_NC_037746,gene,8876,10012,1137,forward
+CYTB CDS,Reduvius_gregoryi_NC_037746,CDS,8876,10012,1137,forward
+tRNA-Ser,Reduvius_gregoryi_NC_037746,tRNA,10012,10079,68,forward
+tRNA-Ser,Reduvius_gregoryi_NC_037746,tRNA,10087,10160,74,forward
+tRNA-Ser,Reduvius_gregoryi_NC_037746,tRNA,10168,10241,74,forward
+ND1 gene,Reduvius_gregoryi_NC_037746,gene,10262,11179,918,reverse
+ND1 CDS,Reduvius_gregoryi_NC_037746,CDS,10262,11179,918,reverse
+tRNA-Leu,Reduvius_gregoryi_NC_037746,tRNA,11180,11244,65,reverse
+tRNA-Val,Reduvius_gregoryi_NC_037746,tRNA,12500,12567,68,reverse
+tRNA-Gln,Reduvius_gregoryi_NC_037746,tRNA,14422,14490,69,reverse
+tRNA-Ile,Reduvius_gregoryi_NC_037746,tRNA,15085,15148,64,forward
+tRNA-Gln,Reduvius_gregoryi_NC_037746,tRNA,15146,15214,69,reverse
+tRNA-Met,Reduvius_gregoryi_NC_037746,tRNA,15214,15281,68,forward
+ND2 gene,Reduvius_gregoryi_NC_037746,gene,15282,16283,1002,forward
+ND2 CDS,Reduvius_gregoryi_NC_037746,CDS,15282,16283,1002,forward
+tRNA-Trp,Reduvius_gregoryi_NC_037746,tRNA,16282,16347,66,forward
+tRNA-Cys,Reduvius_gregoryi_NC_037746,tRNA,16339,16402,64,reverse
+tRNA-Tyr,Reduvius_gregoryi_NC_037746,tRNA,16411,16475,65,reverse
+COX1 gene,Rhodnius_ecuadorensis_TRIA_014,gene,1,1537,1537,forward
+COX1 CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,1,1537,1537,forward
+tRNA-Leu,Rhodnius_ecuadorensis_TRIA_014,tRNA,1534,1602,69,forward
+COX2 gene,Rhodnius_ecuadorensis_TRIA_014,gene,1602,2279,678,forward
+COX2 CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,1602,2279,678,forward
+tRNA-Lys,Rhodnius_ecuadorensis_TRIA_014,tRNA,2282,2353,72,forward
+tRNA-Asp,Rhodnius_ecuadorensis_TRIA_014,tRNA,2353,2419,67,forward
+ATP8 gene,Rhodnius_ecuadorensis_TRIA_014,gene,2420,2578,159,forward
+ATP8 CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,2420,2578,159,forward
+ATP6 gene,Rhodnius_ecuadorensis_TRIA_014,gene,2572,3255,684,forward
+ATP6 CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,2572,3255,684,forward
+COX3 gene,Rhodnius_ecuadorensis_TRIA_014,gene,3242,4026,785,forward
+COX3 CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,3242,4026,785,forward
+tRNA-Gly,Rhodnius_ecuadorensis_TRIA_014,tRNA,4026,4088,63,forward
+ND3 gene,Rhodnius_ecuadorensis_TRIA_014,gene,4089,4438,350,forward
+ND3 CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,4089,4438,350,forward
+tRNA-Ala,Rhodnius_ecuadorensis_TRIA_014,tRNA,4441,4504,64,forward
+tRNA-Arg,Rhodnius_ecuadorensis_TRIA_014,tRNA,4507,4572,66,forward
+tRNA-Asn,Rhodnius_ecuadorensis_TRIA_014,tRNA,4576,4646,71,forward
+tRNA-Ser,Rhodnius_ecuadorensis_TRIA_014,tRNA,4646,4713,68,forward
+tRNA-Glu,Rhodnius_ecuadorensis_TRIA_014,tRNA,4715,4784,70,forward
+tRNA-Phe,Rhodnius_ecuadorensis_TRIA_014,tRNA,4784,4854,71,reverse
+ND5 gene,Rhodnius_ecuadorensis_TRIA_014,gene,4854,6419,1566,reverse
+ND5 CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,4854,6419,1566,reverse
+ND4 gene,Rhodnius_ecuadorensis_TRIA_014,gene,6448,7779,1332,reverse
+ND4 CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,6448,7779,1332,reverse
+ND4L gene,Rhodnius_ecuadorensis_TRIA_014,gene,7773,8066,294,reverse
+ND4L CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,7773,8066,294,reverse
+ND6 gene,Rhodnius_ecuadorensis_TRIA_014,gene,8125,8526,402,forward
+ND6 CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,8125,8526,402,forward
+CYTB gene,Rhodnius_ecuadorensis_TRIA_014,gene,8526,9464,939,forward
+CYTB CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,8526,9464,939,forward
+tRNA-Ser,Rhodnius_ecuadorensis_TRIA_014,tRNA,9463,9530,68,forward
+ND1 gene,Rhodnius_ecuadorensis_TRIA_014,gene,9612,10535,924,reverse
+ND1 CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,9612,10535,924,reverse
+tRNA-Leu,Rhodnius_ecuadorensis_TRIA_014,tRNA,10536,10600,65,reverse
+tRNA-Val,Rhodnius_ecuadorensis_TRIA_014,tRNA,11900,11969,70,reverse
+tRNA-Ile,Rhodnius_ecuadorensis_TRIA_014,tRNA,13901,13966,66,forward
+tRNA-Gln,Rhodnius_ecuadorensis_TRIA_014,tRNA,13964,14032,69,reverse
+tRNA-Met,Rhodnius_ecuadorensis_TRIA_014,tRNA,14033,14101,69,forward
+ND2 gene,Rhodnius_ecuadorensis_TRIA_014,gene,14102,14938,837,forward
+ND2 CDS,Rhodnius_ecuadorensis_TRIA_014,CDS,14102,14938,837,forward
+tRNA-Trp,Rhodnius_ecuadorensis_TRIA_014,tRNA,14937,15003,67,forward
+tRNA-Cys,Rhodnius_ecuadorensis_TRIA_014,tRNA,15017,15080,64,reverse
+tRNA-Tyr,Rhodnius_ecuadorensis_TRIA_014,tRNA,15082,15146,65,reverse
+COX1 gene,Rhodnius_pallescens_MN824451,gene,1,1537,1537,forward
+COX1 CDS,Rhodnius_pallescens_MN824451,CDS,1,1537,1537,forward
+tRNA-Leu,Rhodnius_pallescens_MN824451,tRNA,1534,1602,69,forward
+COX2 gene,Rhodnius_pallescens_MN824451,gene,1602,2279,678,forward
+COX2 CDS,Rhodnius_pallescens_MN824451,CDS,1602,2279,678,forward
+tRNA-Lys,Rhodnius_pallescens_MN824451,tRNA,2282,2352,71,forward
+tRNA-Asp,Rhodnius_pallescens_MN824451,tRNA,2352,2420,69,forward
+ATP8 gene,Rhodnius_pallescens_MN824451,gene,2421,2579,159,forward
+ATP8 CDS,Rhodnius_pallescens_MN824451,CDS,2421,2579,159,forward
+ATP6 gene,Rhodnius_pallescens_MN824451,gene,2573,3256,684,forward
+ATP6 CDS,Rhodnius_pallescens_MN824451,CDS,2573,3256,684,forward
+COX3 gene,Rhodnius_pallescens_MN824451,gene,3243,4027,785,forward
+COX3 CDS,Rhodnius_pallescens_MN824451,CDS,3243,4027,785,forward
+tRNA-Gly,Rhodnius_pallescens_MN824451,tRNA,4027,4089,63,forward
+ND3 gene,Rhodnius_pallescens_MN824451,gene,4090,4439,350,forward
+ND3 CDS,Rhodnius_pallescens_MN824451,CDS,4090,4439,350,forward
+tRNA-Ala,Rhodnius_pallescens_MN824451,tRNA,4442,4504,63,forward
+tRNA-Arg,Rhodnius_pallescens_MN824451,tRNA,4508,4573,66,forward
+tRNA-Asn,Rhodnius_pallescens_MN824451,tRNA,4577,4644,68,forward
+tRNA-Ser,Rhodnius_pallescens_MN824451,tRNA,4644,4711,68,forward
+tRNA-Glu,Rhodnius_pallescens_MN824451,tRNA,4713,4781,69,forward
+tRNA-Phe,Rhodnius_pallescens_MN824451,tRNA,4781,4849,69,reverse
+ND5 gene,Rhodnius_pallescens_MN824451,gene,4849,6546,1698,reverse
+ND5 CDS,Rhodnius_pallescens_MN824451,CDS,4849,6546,1698,reverse
+tRNA-His,Rhodnius_pallescens_MN824451,tRNA,6547,6614,68,reverse
+ND4 gene,Rhodnius_pallescens_MN824451,gene,6614,7945,1332,reverse
+ND4 CDS,Rhodnius_pallescens_MN824451,CDS,6614,7945,1332,reverse
+ND4L gene,Rhodnius_pallescens_MN824451,gene,7939,8232,294,reverse
+ND4L CDS,Rhodnius_pallescens_MN824451,CDS,7939,8232,294,reverse
+tRNA-Thr,Rhodnius_pallescens_MN824451,tRNA,8235,8299,65,forward
+tRNA-Pro,Rhodnius_pallescens_MN824451,tRNA,8300,8364,65,reverse
+ND6 gene,Rhodnius_pallescens_MN824451,gene,8367,8861,495,forward
+ND6 CDS,Rhodnius_pallescens_MN824451,CDS,8367,8861,495,forward
+CYTB gene,Rhodnius_pallescens_MN824451,gene,8861,9994,1134,forward
+CYTB CDS,Rhodnius_pallescens_MN824451,CDS,8861,9994,1134,forward
+tRNA-Ser,Rhodnius_pallescens_MN824451,tRNA,9993,10060,68,forward
+ND1 gene,Rhodnius_pallescens_MN824451,gene,10144,11067,924,reverse
+ND1 CDS,Rhodnius_pallescens_MN824451,CDS,10144,11067,924,reverse
+tRNA-Leu,Rhodnius_pallescens_MN824451,tRNA,11068,11132,65,reverse
+tRNA-Val,Rhodnius_pallescens_MN824451,tRNA,12391,12460,70,reverse
+tRNA-Ile,Rhodnius_pallescens_MN824451,tRNA,14481,14546,66,forward
+tRNA-Gln,Rhodnius_pallescens_MN824451,tRNA,14544,14612,69,reverse
+tRNA-Met,Rhodnius_pallescens_MN824451,tRNA,14612,14680,69,forward
+ND2 gene,Rhodnius_pallescens_MN824451,gene,14681,15676,996,forward
+ND2 CDS,Rhodnius_pallescens_MN824451,CDS,14681,15676,996,forward
+tRNA-Trp,Rhodnius_pallescens_MN824451,tRNA,15675,15741,67,forward
+tRNA-Cys,Rhodnius_pallescens_MN824451,tRNA,15756,15819,64,reverse
+tRNA-Tyr,Rhodnius_pallescens_MN824451,tRNA,15822,15886,65,reverse
+COX1 gene,Rhodnius_pallescens_MN824453,gene,1,1537,1537,forward
+COX1 CDS,Rhodnius_pallescens_MN824453,CDS,1,1537,1537,forward
+tRNA-Leu,Rhodnius_pallescens_MN824453,tRNA,1534,1602,69,forward
+COX2 gene,Rhodnius_pallescens_MN824453,gene,1602,2279,678,forward
+COX2 CDS,Rhodnius_pallescens_MN824453,CDS,1602,2279,678,forward
+tRNA-Lys,Rhodnius_pallescens_MN824453,tRNA,2282,2352,71,forward
+tRNA-Asp,Rhodnius_pallescens_MN824453,tRNA,2352,2420,69,forward
+ATP8 gene,Rhodnius_pallescens_MN824453,gene,2421,2579,159,forward
+ATP8 CDS,Rhodnius_pallescens_MN824453,CDS,2421,2579,159,forward
+ATP6 gene,Rhodnius_pallescens_MN824453,gene,2573,3256,684,forward
+ATP6 CDS,Rhodnius_pallescens_MN824453,CDS,2573,3256,684,forward
+COX3 gene,Rhodnius_pallescens_MN824453,gene,3243,4027,785,forward
+COX3 CDS,Rhodnius_pallescens_MN824453,CDS,3243,4027,785,forward
+tRNA-Gly,Rhodnius_pallescens_MN824453,tRNA,4027,4089,63,forward
+ND3 gene,Rhodnius_pallescens_MN824453,gene,4090,4439,350,forward
+ND3 CDS,Rhodnius_pallescens_MN824453,CDS,4090,4439,350,forward
+tRNA-Ala,Rhodnius_pallescens_MN824453,tRNA,4442,4504,63,forward
+tRNA-Arg,Rhodnius_pallescens_MN824453,tRNA,4508,4573,66,forward
+tRNA-Asn,Rhodnius_pallescens_MN824453,tRNA,4577,4644,68,forward
+tRNA-Ser,Rhodnius_pallescens_MN824453,tRNA,4644,4711,68,forward
+tRNA-Glu,Rhodnius_pallescens_MN824453,tRNA,4713,4781,69,forward
+tRNA-Phe,Rhodnius_pallescens_MN824453,tRNA,4781,4849,69,reverse
+ND5 gene,Rhodnius_pallescens_MN824453,gene,4849,6546,1698,reverse
+ND5 CDS,Rhodnius_pallescens_MN824453,CDS,4849,6546,1698,reverse
+tRNA-His,Rhodnius_pallescens_MN824453,tRNA,6547,6614,68,reverse
+ND4 gene,Rhodnius_pallescens_MN824453,gene,6614,7945,1332,reverse
+ND4 CDS,Rhodnius_pallescens_MN824453,CDS,6614,7945,1332,reverse
+ND4L gene,Rhodnius_pallescens_MN824453,gene,7939,8232,294,reverse
+ND4L CDS,Rhodnius_pallescens_MN824453,CDS,7939,8232,294,reverse
+tRNA-Thr,Rhodnius_pallescens_MN824453,tRNA,8235,8299,65,forward
+tRNA-Pro,Rhodnius_pallescens_MN824453,tRNA,8300,8364,65,reverse
+ND6 gene,Rhodnius_pallescens_MN824453,gene,8367,8861,495,forward
+ND6 CDS,Rhodnius_pallescens_MN824453,CDS,8367,8861,495,forward
+CYTB gene,Rhodnius_pallescens_MN824453,gene,8861,9994,1134,forward
+CYTB CDS,Rhodnius_pallescens_MN824453,CDS,8861,9994,1134,forward
+tRNA-Ser,Rhodnius_pallescens_MN824453,tRNA,9993,10060,68,forward
+ND1 gene,Rhodnius_pallescens_MN824453,gene,10144,11067,924,reverse
+ND1 CDS,Rhodnius_pallescens_MN824453,CDS,10144,11067,924,reverse
+tRNA-Leu,Rhodnius_pallescens_MN824453,tRNA,11068,11132,65,reverse
+tRNA-Val,Rhodnius_pallescens_MN824453,tRNA,12391,12460,70,reverse
+tRNA-Ile,Rhodnius_pallescens_MN824453,tRNA,14481,14546,66,forward
+tRNA-Gln,Rhodnius_pallescens_MN824453,tRNA,14544,14612,69,reverse
+tRNA-Met,Rhodnius_pallescens_MN824453,tRNA,14612,14680,69,forward
+ND2 gene,Rhodnius_pallescens_MN824453,gene,14681,15676,996,forward
+ND2 CDS,Rhodnius_pallescens_MN824453,CDS,14681,15676,996,forward
+tRNA-Trp,Rhodnius_pallescens_MN824453,tRNA,15675,15741,67,forward
+tRNA-Cys,Rhodnius_pallescens_MN824453,tRNA,15756,15819,64,reverse
+tRNA-Tyr,Rhodnius_pallescens_MN824453,tRNA,15822,15886,65,reverse
+COX1 gene,Rhodnius_pallescens_MN824455,gene,1,1537,1537,forward
+COX1 CDS,Rhodnius_pallescens_MN824455,CDS,1,1537,1537,forward
+tRNA-Leu,Rhodnius_pallescens_MN824455,tRNA,1534,1602,69,forward
+COX2 gene,Rhodnius_pallescens_MN824455,gene,1602,2279,678,forward
+COX2 CDS,Rhodnius_pallescens_MN824455,CDS,1602,2279,678,forward
+tRNA-Lys,Rhodnius_pallescens_MN824455,tRNA,2282,2352,71,forward
+tRNA-Asp,Rhodnius_pallescens_MN824455,tRNA,2352,2420,69,forward
+ATP8 gene,Rhodnius_pallescens_MN824455,gene,2421,2579,159,forward
+ATP8 CDS,Rhodnius_pallescens_MN824455,CDS,2421,2579,159,forward
+ATP6 gene,Rhodnius_pallescens_MN824455,gene,2573,3256,684,forward
+ATP6 CDS,Rhodnius_pallescens_MN824455,CDS,2573,3256,684,forward
+COX3 gene,Rhodnius_pallescens_MN824455,gene,3243,4027,785,forward
+COX3 CDS,Rhodnius_pallescens_MN824455,CDS,3243,4027,785,forward
+tRNA-Gly,Rhodnius_pallescens_MN824455,tRNA,4027,4090,64,forward
+ND3 gene,Rhodnius_pallescens_MN824455,gene,4091,4440,350,forward
+ND3 CDS,Rhodnius_pallescens_MN824455,CDS,4091,4440,350,forward
+tRNA-Ala,Rhodnius_pallescens_MN824455,tRNA,4443,4505,63,forward
+tRNA-Arg,Rhodnius_pallescens_MN824455,tRNA,4509,4576,68,forward
+tRNA-Asn,Rhodnius_pallescens_MN824455,tRNA,4580,4650,71,forward
+tRNA-Ser,Rhodnius_pallescens_MN824455,tRNA,4650,4717,68,forward
+tRNA-Glu,Rhodnius_pallescens_MN824455,tRNA,4719,4785,67,forward
+tRNA-Phe,Rhodnius_pallescens_MN824455,tRNA,4785,4853,69,reverse
+ND5 gene,Rhodnius_pallescens_MN824455,gene,4853,6550,1698,reverse
+ND5 CDS,Rhodnius_pallescens_MN824455,CDS,4853,6550,1698,reverse
+tRNA-His,Rhodnius_pallescens_MN824455,tRNA,6551,6618,68,reverse
+ND4 gene,Rhodnius_pallescens_MN824455,gene,6618,7949,1332,reverse
+ND4 CDS,Rhodnius_pallescens_MN824455,CDS,6618,7949,1332,reverse
+ND4L gene,Rhodnius_pallescens_MN824455,gene,7943,8236,294,reverse
+ND4L CDS,Rhodnius_pallescens_MN824455,CDS,7943,8236,294,reverse
+tRNA-Thr,Rhodnius_pallescens_MN824455,tRNA,8239,8303,65,forward
+tRNA-Pro,Rhodnius_pallescens_MN824455,tRNA,8304,8368,65,reverse
+ND6 gene,Rhodnius_pallescens_MN824455,gene,8371,8865,495,forward
+ND6 CDS,Rhodnius_pallescens_MN824455,CDS,8371,8865,495,forward
+CYTB gene,Rhodnius_pallescens_MN824455,gene,8865,9998,1134,forward
+CYTB CDS,Rhodnius_pallescens_MN824455,CDS,8865,9998,1134,forward
+tRNA-Ser,Rhodnius_pallescens_MN824455,tRNA,9997,10064,68,forward
+tRNA-Ser,Rhodnius_pallescens_MN824455,tRNA,10499,10566,68,forward
+ND1 gene,Rhodnius_pallescens_MN824455,gene,10650,11573,924,reverse
+ND1 CDS,Rhodnius_pallescens_MN824455,CDS,10650,11573,924,reverse
+tRNA-Leu,Rhodnius_pallescens_MN824455,tRNA,11574,11638,65,reverse
+tRNA-Val,Rhodnius_pallescens_MN824455,tRNA,12897,12966,70,reverse
+tRNA-Ile,Rhodnius_pallescens_MN824455,tRNA,14984,15049,66,forward
+tRNA-Gln,Rhodnius_pallescens_MN824455,tRNA,15047,15115,69,reverse
+tRNA-Met,Rhodnius_pallescens_MN824455,tRNA,15115,15183,69,forward
+ND2 gene,Rhodnius_pallescens_MN824455,gene,15184,16179,996,forward
+ND2 CDS,Rhodnius_pallescens_MN824455,CDS,15184,16179,996,forward
+tRNA-Trp,Rhodnius_pallescens_MN824455,tRNA,16178,16244,67,forward
+tRNA-Cys,Rhodnius_pallescens_MN824455,tRNA,16259,16322,64,reverse
+tRNA-Tyr,Rhodnius_pallescens_MN824455,tRNA,16325,16389,65,reverse
+COX1 gene,Rhodnius_pallescens_MN824456,gene,1,1537,1537,forward
+COX1 CDS,Rhodnius_pallescens_MN824456,CDS,1,1537,1537,forward
+tRNA-Leu,Rhodnius_pallescens_MN824456,tRNA,1534,1602,69,forward
+COX2 gene,Rhodnius_pallescens_MN824456,gene,1602,2279,678,forward
+COX2 CDS,Rhodnius_pallescens_MN824456,CDS,1602,2279,678,forward
+tRNA-Lys,Rhodnius_pallescens_MN824456,tRNA,2282,2352,71,forward
+tRNA-Asp,Rhodnius_pallescens_MN824456,tRNA,2352,2420,69,forward
+ATP8 gene,Rhodnius_pallescens_MN824456,gene,2421,2579,159,forward
+ATP8 CDS,Rhodnius_pallescens_MN824456,CDS,2421,2579,159,forward
+ATP6 gene,Rhodnius_pallescens_MN824456,gene,2573,3256,684,forward
+ATP6 CDS,Rhodnius_pallescens_MN824456,CDS,2573,3256,684,forward
+COX3 gene,Rhodnius_pallescens_MN824456,gene,3243,4027,785,forward
+COX3 CDS,Rhodnius_pallescens_MN824456,CDS,3243,4027,785,forward
+tRNA-Gly,Rhodnius_pallescens_MN824456,tRNA,4027,4090,64,forward
+ND3 gene,Rhodnius_pallescens_MN824456,gene,4091,4440,350,forward
+ND3 CDS,Rhodnius_pallescens_MN824456,CDS,4091,4440,350,forward
+tRNA-Ala,Rhodnius_pallescens_MN824456,tRNA,4443,4505,63,forward
+tRNA-Arg,Rhodnius_pallescens_MN824456,tRNA,4509,4576,68,forward
+tRNA-Asn,Rhodnius_pallescens_MN824456,tRNA,4580,4650,71,forward
+tRNA-Ser,Rhodnius_pallescens_MN824456,tRNA,4650,4717,68,forward
+tRNA-Glu,Rhodnius_pallescens_MN824456,tRNA,4719,4785,67,forward
+tRNA-Phe,Rhodnius_pallescens_MN824456,tRNA,4785,4853,69,reverse
+ND5 gene,Rhodnius_pallescens_MN824456,gene,4853,6550,1698,reverse
+ND5 CDS,Rhodnius_pallescens_MN824456,CDS,4853,6550,1698,reverse
+tRNA-His,Rhodnius_pallescens_MN824456,tRNA,6551,6618,68,reverse
+ND4 gene,Rhodnius_pallescens_MN824456,gene,6618,7949,1332,reverse
+ND4 CDS,Rhodnius_pallescens_MN824456,CDS,6618,7949,1332,reverse
+ND4L gene,Rhodnius_pallescens_MN824456,gene,7943,8236,294,reverse
+ND4L CDS,Rhodnius_pallescens_MN824456,CDS,7943,8236,294,reverse
+tRNA-Thr,Rhodnius_pallescens_MN824456,tRNA,8239,8303,65,forward
+tRNA-Pro,Rhodnius_pallescens_MN824456,tRNA,8304,8368,65,reverse
+ND6 gene,Rhodnius_pallescens_MN824456,gene,8371,8865,495,forward
+ND6 CDS,Rhodnius_pallescens_MN824456,CDS,8371,8865,495,forward
+CYTB gene,Rhodnius_pallescens_MN824456,gene,8865,9998,1134,forward
+CYTB CDS,Rhodnius_pallescens_MN824456,CDS,8865,9998,1134,forward
+tRNA-Ser,Rhodnius_pallescens_MN824456,tRNA,9997,10064,68,forward
+tRNA-Ser,Rhodnius_pallescens_MN824456,tRNA,10499,10566,68,forward
+ND1 gene,Rhodnius_pallescens_MN824456,gene,10650,11573,924,reverse
+ND1 CDS,Rhodnius_pallescens_MN824456,CDS,10650,11573,924,reverse
+tRNA-Leu,Rhodnius_pallescens_MN824456,tRNA,11574,11638,65,reverse
+tRNA-Val,Rhodnius_pallescens_MN824456,tRNA,12897,12966,70,reverse
+tRNA-Ile,Rhodnius_pallescens_MN824456,tRNA,14984,15049,66,forward
+tRNA-Gln,Rhodnius_pallescens_MN824456,tRNA,15047,15115,69,reverse
+tRNA-Met,Rhodnius_pallescens_MN824456,tRNA,15115,15183,69,forward
+ND2 gene,Rhodnius_pallescens_MN824456,gene,15184,16179,996,forward
+ND2 CDS,Rhodnius_pallescens_MN824456,CDS,15184,16179,996,forward
+tRNA-Trp,Rhodnius_pallescens_MN824456,tRNA,16178,16244,67,forward
+tRNA-Cys,Rhodnius_pallescens_MN824456,tRNA,16259,16322,64,reverse
+tRNA-Tyr,Rhodnius_pallescens_MN824456,tRNA,16325,16389,65,reverse
+COX1 gene,Triatoma_barberi_MT556655,gene,1,1539,1539,forward
+COX1 CDS,Triatoma_barberi_MT556655,CDS,1,1539,1539,forward
+tRNA-Leu,Triatoma_barberi_MT556655,tRNA,1534,1603,70,forward
+COX2 gene,Triatoma_barberi_MT556655,gene,1603,2281,679,forward
+COX2 CDS,Triatoma_barberi_MT556655,CDS,1603,2281,679,forward
+tRNA-Lys,Triatoma_barberi_MT556655,tRNA,2282,2351,70,forward
+tRNA-Asp,Triatoma_barberi_MT556655,tRNA,2351,2414,64,forward
+ATP8 gene,Triatoma_barberi_MT556655,gene,2415,2573,159,forward
+ATP8 CDS,Triatoma_barberi_MT556655,CDS,2415,2573,159,forward
+ATP6 gene,Triatoma_barberi_MT556655,gene,2567,3250,684,forward
+ATP6 CDS,Triatoma_barberi_MT556655,CDS,2567,3250,684,forward
+COX3 gene,Triatoma_barberi_MT556655,gene,3237,4022,786,forward
+COX3 CDS,Triatoma_barberi_MT556655,CDS,3237,4022,786,forward
+tRNA-Gly,Triatoma_barberi_MT556655,tRNA,4022,4084,63,forward
+ND3 gene,Triatoma_barberi_MT556655,gene,4085,4438,354,forward
+ND3 CDS,Triatoma_barberi_MT556655,CDS,4085,4438,354,forward
+tRNA-Ala,Triatoma_barberi_MT556655,tRNA,4440,4500,61,forward
+tRNA-Arg,Triatoma_barberi_MT556655,tRNA,4505,4569,65,forward
+tRNA-Asn,Triatoma_barberi_MT556655,tRNA,4572,4636,65,forward
+tRNA-Ser,Triatoma_barberi_MT556655,tRNA,4636,4704,69,forward
+tRNA-Glu,Triatoma_barberi_MT556655,tRNA,4705,4770,66,forward
+tRNA-Phe,Triatoma_barberi_MT556655,tRNA,4770,4834,65,reverse
+ND5 gene,Triatoma_barberi_MT556655,gene,4834,6546,1713,reverse
+ND5 CDS,Triatoma_barberi_MT556655,CDS,4834,6546,1713,reverse
+tRNA-His,Triatoma_barberi_MT556655,tRNA,6547,6614,68,reverse
+ND4 gene,Triatoma_barberi_MT556655,gene,6620,7945,1326,reverse
+ND4 CDS,Triatoma_barberi_MT556655,CDS,6620,7945,1326,reverse
+ND4L gene,Triatoma_barberi_MT556655,gene,7939,8232,294,reverse
+ND4L CDS,Triatoma_barberi_MT556655,CDS,7939,8232,294,reverse
+tRNA-Thr,Triatoma_barberi_MT556655,tRNA,8235,8296,62,forward
+tRNA-Pro,Triatoma_barberi_MT556655,tRNA,8297,8363,67,reverse
+ND6 gene,Triatoma_barberi_MT556655,gene,8367,8867,501,forward
+ND6 CDS,Triatoma_barberi_MT556655,CDS,8367,8867,501,forward
+CYTB gene,Triatoma_barberi_MT556655,gene,8867,10000,1134,forward
+CYTB CDS,Triatoma_barberi_MT556655,CDS,8867,10000,1134,forward
+tRNA-Ser,Triatoma_barberi_MT556655,tRNA,9999,10066,68,forward
+ND1 gene,Triatoma_barberi_MT556655,gene,10231,11154,924,reverse
+ND1 CDS,Triatoma_barberi_MT556655,CDS,10231,11154,924,reverse
+tRNA-Leu,Triatoma_barberi_MT556655,tRNA,11155,11219,65,reverse
+tRNA-Val,Triatoma_barberi_MT556655,tRNA,12478,12547,70,reverse
+tRNA-Ile,Triatoma_barberi_MT556655,tRNA,15047,15111,65,forward
+tRNA-Gln,Triatoma_barberi_MT556655,tRNA,15109,15177,69,reverse
+tRNA-Met,Triatoma_barberi_MT556655,tRNA,15177,15244,68,forward
+ND2 gene,Triatoma_barberi_MT556655,gene,15245,16243,999,forward
+ND2 CDS,Triatoma_barberi_MT556655,CDS,15245,16243,999,forward
+tRNA-Trp,Triatoma_barberi_MT556655,tRNA,16249,16314,66,forward
+tRNA-Cys,Triatoma_barberi_MT556655,tRNA,16306,16369,64,reverse
+tRNA-Tyr,Triatoma_barberi_MT556655,tRNA,16369,16433,65,reverse
+COX1 gene,Triatoma_dispar_T2,gene,1,1539,1539,forward
+COX1 CDS,Triatoma_dispar_T2,CDS,1,1539,1539,forward
+tRNA-Leu,Triatoma_dispar_T2,tRNA,1534,1602,69,forward
+COX2 gene,Triatoma_dispar_T2,gene,1602,2280,679,forward
+COX2 CDS,Triatoma_dispar_T2,CDS,1602,2280,679,forward
+tRNA-Lys,Triatoma_dispar_T2,tRNA,2281,2350,70,forward
+tRNA-Asp,Triatoma_dispar_T2,tRNA,2350,2415,66,forward
+ATP8 gene,Triatoma_dispar_T2,gene,2416,2571,156,forward
+ATP8 CDS,Triatoma_dispar_T2,CDS,2416,2571,156,forward
+ATP6 gene,Triatoma_dispar_T2,gene,2565,3248,684,forward
+ATP6 CDS,Triatoma_dispar_T2,CDS,2565,3248,684,forward
+COX3 gene,Triatoma_dispar_T2,gene,3235,4019,785,forward
+COX3 CDS,Triatoma_dispar_T2,CDS,3235,4019,785,forward
+tRNA-Gly,Triatoma_dispar_T2,tRNA,4019,4081,63,forward
+ND3 gene,Triatoma_dispar_T2,gene,4082,4435,354,forward
+ND3 CDS,Triatoma_dispar_T2,CDS,4082,4435,354,forward
+tRNA-Ala,Triatoma_dispar_T2,tRNA,4436,4496,61,forward
+tRNA-Arg,Triatoma_dispar_T2,tRNA,4501,4565,65,forward
+tRNA-Asn,Triatoma_dispar_T2,tRNA,4571,4635,65,forward
+tRNA-Ser,Triatoma_dispar_T2,tRNA,4635,4703,69,forward
+tRNA-Glu,Triatoma_dispar_T2,tRNA,4703,4765,63,forward
+tRNA-Phe,Triatoma_dispar_T2,tRNA,4767,4832,66,reverse
+ND5 gene,Triatoma_dispar_T2,gene,4832,6544,1713,reverse
+ND5 CDS,Triatoma_dispar_T2,CDS,4832,6544,1713,reverse
+tRNA-His,Triatoma_dispar_T2,tRNA,6545,6615,71,reverse
+ND4 gene,Triatoma_dispar_T2,gene,6615,7946,1332,reverse
+ND4 CDS,Triatoma_dispar_T2,CDS,6615,7946,1332,reverse
+ND4L gene,Triatoma_dispar_T2,gene,7940,8233,294,reverse
+ND4L CDS,Triatoma_dispar_T2,CDS,7940,8233,294,reverse
+tRNA-Thr,Triatoma_dispar_T2,tRNA,8236,8297,62,forward
+tRNA-Pro,Triatoma_dispar_T2,tRNA,8298,8360,63,reverse
+ND6 gene,Triatoma_dispar_T2,gene,8364,8864,501,forward
+ND6 CDS,Triatoma_dispar_T2,CDS,8364,8864,501,forward
+CYTB gene,Triatoma_dispar_T2,gene,8864,9997,1134,forward
+CYTB CDS,Triatoma_dispar_T2,CDS,8864,9997,1134,forward
+tRNA-Ser,Triatoma_dispar_T2,tRNA,9998,10065,68,forward
+ND1 gene,Triatoma_dispar_T2,gene,10165,11088,924,reverse
+ND1 CDS,Triatoma_dispar_T2,CDS,10165,11088,924,reverse
+tRNA-Leu,Triatoma_dispar_T2,tRNA,11089,11152,64,reverse
+tRNA-Val,Triatoma_dispar_T2,tRNA,12408,12478,71,reverse
+tRNA-Ile,Triatoma_dispar_T2,tRNA,14899,14962,64,forward
+tRNA-Gln,Triatoma_dispar_T2,tRNA,14960,15028,69,reverse
+tRNA-Met,Triatoma_dispar_T2,tRNA,15028,15095,68,forward
+ND2 gene,Triatoma_dispar_T2,gene,15096,16094,999,forward
+ND2 CDS,Triatoma_dispar_T2,CDS,15096,16094,999,forward
+tRNA-Trp,Triatoma_dispar_T2,tRNA,16099,16164,66,forward
+tRNA-Cys,Triatoma_dispar_T2,tRNA,16156,16222,67,reverse
+tRNA-Tyr,Triatoma_dispar_T2,tRNA,16222,16286,65,reverse
+COX1 gene,Triatoma_gerstaeckri_NL0001,gene,1,1539,1539,forward
+COX1 CDS,Triatoma_gerstaeckri_NL0001,CDS,1,1539,1539,forward
+tRNA-Leu,Triatoma_gerstaeckri_NL0001,tRNA,1534,1603,70,forward
+COX2 gene,Triatoma_gerstaeckri_NL0001,gene,1603,2281,679,forward
+COX2 CDS,Triatoma_gerstaeckri_NL0001,CDS,1603,2281,679,forward
+tRNA-Lys,Triatoma_gerstaeckri_NL0001,tRNA,2282,2351,70,forward
+tRNA-Asp,Triatoma_gerstaeckri_NL0001,tRNA,2351,2415,65,forward
+ATP8 gene,Triatoma_gerstaeckri_NL0001,gene,2416,2574,159,forward
+ATP8 CDS,Triatoma_gerstaeckri_NL0001,CDS,2416,2574,159,forward
+ATP6 gene,Triatoma_gerstaeckri_NL0001,gene,2568,3281,714,forward
+ATP6 CDS,Triatoma_gerstaeckri_NL0001,CDS,2568,3281,714,forward
+COX3 gene,Triatoma_gerstaeckri_NL0001,gene,3268,4053,786,forward
+COX3 CDS,Triatoma_gerstaeckri_NL0001,CDS,3268,4053,786,forward
+tRNA-Gly,Triatoma_gerstaeckri_NL0001,tRNA,4053,4115,63,forward
+ND3 gene,Triatoma_gerstaeckri_NL0001,gene,4116,4469,354,forward
+ND3 CDS,Triatoma_gerstaeckri_NL0001,CDS,4116,4469,354,forward
+tRNA-Ala,Triatoma_gerstaeckri_NL0001,tRNA,4469,4530,62,forward
+tRNA-Arg,Triatoma_gerstaeckri_NL0001,tRNA,4535,4598,64,forward
+tRNA-Asn,Triatoma_gerstaeckri_NL0001,tRNA,4602,4665,64,forward
+tRNA-Ser,Triatoma_gerstaeckri_NL0001,tRNA,4665,4733,69,forward
+tRNA-Glu,Triatoma_gerstaeckri_NL0001,tRNA,4733,4797,65,forward
+tRNA-Phe,Triatoma_gerstaeckri_NL0001,tRNA,4797,4861,65,reverse
+ND5 gene,Triatoma_gerstaeckri_NL0001,gene,4861,6573,1713,reverse
+ND5 CDS,Triatoma_gerstaeckri_NL0001,CDS,4861,6573,1713,reverse
+tRNA-His,Triatoma_gerstaeckri_NL0001,tRNA,6574,6641,68,reverse
+ND4 gene,Triatoma_gerstaeckri_NL0001,gene,6641,7972,1332,reverse
+ND4 CDS,Triatoma_gerstaeckri_NL0001,CDS,6641,7972,1332,reverse
+ND4L gene,Triatoma_gerstaeckri_NL0001,gene,7966,8259,294,reverse
+ND4L CDS,Triatoma_gerstaeckri_NL0001,CDS,7966,8259,294,reverse
+tRNA-Thr,Triatoma_gerstaeckri_NL0001,tRNA,8262,8325,64,forward
+tRNA-Pro,Triatoma_gerstaeckri_NL0001,tRNA,8326,8393,68,reverse
+ND6 gene,Triatoma_gerstaeckri_NL0001,gene,8397,8897,501,forward
+ND6 CDS,Triatoma_gerstaeckri_NL0001,CDS,8397,8897,501,forward
+CYTB gene,Triatoma_gerstaeckri_NL0001,gene,8897,10030,1134,forward
+CYTB CDS,Triatoma_gerstaeckri_NL0001,CDS,8897,10030,1134,forward
+tRNA-Ser,Triatoma_gerstaeckri_NL0001,tRNA,10029,10097,69,forward
+ND1 gene,Triatoma_gerstaeckri_NL0001,gene,10518,11435,918,reverse
+ND1 CDS,Triatoma_gerstaeckri_NL0001,CDS,10518,11435,918,reverse
+tRNA-Leu,Triatoma_gerstaeckri_NL0001,tRNA,11436,11500,65,reverse
+tRNA-Val,Triatoma_gerstaeckri_NL0001,tRNA,12757,12827,71,reverse
+tRNA-Ile,Triatoma_gerstaeckri_NL0001,tRNA,14463,14526,64,forward
+tRNA-Gln,Triatoma_gerstaeckri_NL0001,tRNA,14524,14592,69,reverse
+tRNA-Met,Triatoma_gerstaeckri_NL0001,tRNA,14593,14660,68,forward
+ND2 gene,Triatoma_gerstaeckri_NL0001,gene,14661,15659,999,forward
+ND2 CDS,Triatoma_gerstaeckri_NL0001,CDS,14661,15659,999,forward
+ND2 gene,Triatoma_gerstaeckri_NL0001,gene,15660,15785,126,forward
+ND2 CDS,Triatoma_gerstaeckri_NL0001,CDS,15660,15785,126,forward
+tRNA-Trp,Triatoma_gerstaeckri_NL0001,tRNA,15791,15856,66,forward
+tRNA-Cys,Triatoma_gerstaeckri_NL0001,tRNA,15848,15911,64,reverse
+tRNA-Tyr,Triatoma_gerstaeckri_NL0001,tRNA,15911,15975,65,reverse
+COI gene,Triatoma_infestans_MZ350959,gene,1,1539,1539,forward
+COI CDS,Triatoma_infestans_MZ350959,CDS,1,1539,1539,forward
+tRNA-Leu,Triatoma_infestans_MZ350959,tRNA,1534,1602,69,forward
+COX2 gene,Triatoma_infestans_MZ350959,gene,1602,2280,679,forward
+COX2 CDS,Triatoma_infestans_MZ350959,CDS,1602,2280,679,forward
+tRNA-Lys,Triatoma_infestans_MZ350959,tRNA,2281,2350,70,forward
+tRNA-Asp,Triatoma_infestans_MZ350959,tRNA,2350,2413,64,forward
+ATP8 gene,Triatoma_infestans_MZ350959,gene,2414,2572,159,forward
+ATP8 CDS,Triatoma_infestans_MZ350959,CDS,2414,2572,159,forward
+ATP6 gene,Triatoma_infestans_MZ350959,gene,2566,3249,684,forward
+ATP6 CDS,Triatoma_infestans_MZ350959,CDS,2566,3249,684,forward
+COX3 gene,Triatoma_infestans_MZ350959,gene,3236,4020,785,forward
+COX3 CDS,Triatoma_infestans_MZ350959,CDS,3236,4020,785,forward
+tRNA-Gly,Triatoma_infestans_MZ350959,tRNA,4020,4082,63,forward
+ND3 gene,Triatoma_infestans_MZ350959,gene,4083,4436,354,forward
+ND3 CDS,Triatoma_infestans_MZ350959,CDS,4083,4436,354,forward
+tRNA-Ala,Triatoma_infestans_MZ350959,tRNA,4436,4500,65,forward
+tRNA-Arg,Triatoma_infestans_MZ350959,tRNA,4505,4569,65,forward
+tRNA-Asn,Triatoma_infestans_MZ350959,tRNA,4572,4636,65,forward
+tRNA-Ser,Triatoma_infestans_MZ350959,tRNA,4636,4704,69,forward
+tRNA-Glu,Triatoma_infestans_MZ350959,tRNA,4705,4767,63,forward
+tRNA-Phe,Triatoma_infestans_MZ350959,tRNA,4770,4836,67,reverse
+ND5 gene,Triatoma_infestans_MZ350959,gene,4836,6548,1713,reverse
+ND5 CDS,Triatoma_infestans_MZ350959,CDS,4836,6548,1713,reverse
+tRNA-His,Triatoma_infestans_MZ350959,tRNA,6549,6614,66,reverse
+ND4 gene,Triatoma_infestans_MZ350959,gene,6614,7945,1332,reverse
+ND4 CDS,Triatoma_infestans_MZ350959,CDS,6614,7945,1332,reverse
+ND4L gene,Triatoma_infestans_MZ350959,gene,7939,8232,294,reverse
+ND4L CDS,Triatoma_infestans_MZ350959,CDS,7939,8232,294,reverse
+tRNA-Thr,Triatoma_infestans_MZ350959,tRNA,8235,8297,63,forward
+tRNA-Pro,Triatoma_infestans_MZ350959,tRNA,8298,8366,69,reverse
+ND6 gene,Triatoma_infestans_MZ350959,gene,8370,8870,501,forward
+ND6 CDS,Triatoma_infestans_MZ350959,CDS,8370,8870,501,forward
+CYTB gene,Triatoma_infestans_MZ350959,gene,8870,10003,1134,forward
+CYTB CDS,Triatoma_infestans_MZ350959,CDS,8870,10003,1134,forward
+tRNA-Ser,Triatoma_infestans_MZ350959,tRNA,10002,10070,69,forward
+ND1 gene,Triatoma_infestans_MZ350959,gene,10164,11081,918,reverse
+ND1 CDS,Triatoma_infestans_MZ350959,CDS,10164,11081,918,reverse
+tRNA-Leu,Triatoma_infestans_MZ350959,tRNA,11082,11146,65,reverse
+tRNA-Val,Triatoma_infestans_MZ350959,tRNA,12402,12471,70,reverse
+tRNA-Ile,Triatoma_infestans_MZ350959,tRNA,15916,15980,65,forward
+tRNA-Gln,Triatoma_infestans_MZ350959,tRNA,15978,16046,69,reverse
+tRNA-Met,Triatoma_infestans_MZ350959,tRNA,16046,16113,68,forward
+ND2 gene,Triatoma_infestans_MZ350959,gene,16114,17112,999,forward
+ND2 CDS,Triatoma_infestans_MZ350959,CDS,16114,17112,999,forward
+tRNA-Trp,Triatoma_infestans_MZ350959,tRNA,17118,17183,66,forward
+tRNA-Cys,Triatoma_infestans_MZ350959,tRNA,17175,17238,64,reverse
+tRNA-Tyr,Triatoma_infestans_MZ350959,tRNA,17238,17302,65,reverse
